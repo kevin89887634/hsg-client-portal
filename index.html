@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>恒盛集团 — 客户全息方案</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: #f5f7fa;
+      color: #1f2937;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+      color: #fff;
+      padding: 20px 24px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      font-size: 18px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    header .badge {
+      font-size: 11px;
+      background: rgba(255,255,255,0.18);
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+    #content {
+      flex: 1;
+      display: flex;
+      align-items: stretch;
+      justify-content: center;
+      padding: 16px;
+    }
+    .panel {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      padding: 32px;
+      text-align: center;
+      max-width: 480px;
+      width: 100%;
+      margin: auto;
+    }
+    .panel h2 {
+      font-size: 20px;
+      margin-bottom: 12px;
+      color: #1e3a8a;
+    }
+    .panel p { color: #6b7280; line-height: 1.6; }
+    .panel.error h2 { color: #dc2626; }
+    .panel input {
+      width: 100%;
+      padding: 12px 14px;
+      font-size: 16px;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      margin: 16px 0 8px;
+      outline: none;
+    }
+    .panel input:focus { border-color: #2563eb; }
+    .panel button {
+      width: 100%;
+      padding: 12px;
+      background: #2563eb;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      font-weight: 500;
+      cursor: pointer;
+      margin-top: 8px;
+    }
+    .panel button:hover { background: #1d4ed8; }
+    #pdf-viewer {
+      width: 100%;
+      height: calc(100vh - 80px);
+      border: none;
+    }
+    footer {
+      text-align: center;
+      padding: 12px;
+      font-size: 12px;
+      color: #9ca3af;
+      background: #fff;
+      border-top: 1px solid #e5e7eb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📋 恒盛集团 · 客户全息方案 <span class="badge">Private</span></h1>
+  </header>
+
+  <div id="content">
+    <!-- 默认显示 loading,JS 替换 -->
+    <div class="panel">
+      <h2>加载中...</h2>
+      <p>正在验证您的访问凭证</p>
+    </div>
+  </div>
+
+  <footer>
+    本方案由恒盛集团 AI Coach 自动生成 · 数据随保单状态动态更新
+  </footer>
+
+  <script>
+    (async function() {
+      const params = new URLSearchParams(location.search);
+      const token = params.get('token');
+      const content = document.getElementById('content');
+
+      function showError(title, msg) {
+        content.innerHTML = `
+          <div class="panel error">
+            <h2>${title}</h2>
+            <p>${msg}</p>
+            <p style="margin-top: 16px; font-size: 13px;">
+              如有疑问请联系您的恒盛顾问
+            </p>
+          </div>`;
+      }
+
+      function showPdf(pdfUrl, owner) {
+        // 替换整页为 PDF iframe
+        document.body.innerHTML = `
+          <header style="background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%); color: #fff; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-size: 14px; font-weight: 500;">📋 恒盛集团 · ${owner} 的全息方案</span>
+            <a href="${pdfUrl}" download style="color: #fff; text-decoration: none; font-size: 12px; background: rgba(255,255,255,0.18); padding: 4px 10px; border-radius: 4px;">下载 PDF</a>
+          </header>
+          <iframe id="pdf-viewer" src="${pdfUrl}#zoom=fit"></iframe>`;
+      }
+
+      if (!token) {
+        showError('需要访问令牌', '请通过您的恒盛顾问发给您的专属链接打开此页面。链接形如:<br><code style="background:#f3f4f6;padding:2px 6px;border-radius:3px;">?token=XXXXXXXXXXXX</code>');
+        return;
+      }
+
+      try {
+        const resp = await fetch('manifest.json?t=' + Date.now(), { cache: 'no-store' });
+        if (!resp.ok) throw new Error('manifest 加载失败');
+        const data = await resp.json();
+        const match = data.clients.find(c => c.token === token);
+        if (!match) {
+          showError('令牌无效', '此链接可能已过期或被撤销。请联系顾问获取新链接。');
+          return;
+        }
+        showPdf(match.pdf, match.owner_name);
+      } catch (err) {
+        showError('加载失败', err.message);
+      }
+    })();
+  </script>
+</body>
+</html>
