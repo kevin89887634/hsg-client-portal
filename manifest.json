@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-18T01:59:51",
+  "generated_at": "2026-05-18T02:02:17",
   "salt_hash": "ee77eec6",
   "count": 114,
   "clients": [
@@ -14,7 +14,7 @@
         "insured": {
           "name": "YANMEI TANG",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "282600300",
@@ -58,7 +58,7 @@
         "insured": {
           "name": "GUOQING LIU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "282600400",
@@ -102,7 +102,7 @@
         "insured": {
           "name": "DIHUA TANG",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "282858800",
@@ -146,7 +146,7 @@
         "insured": {
           "name": "XIN CHEN",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "283191800",
@@ -184,7 +184,7 @@
         "insured": {
           "name": "WENXIU DONG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Island, NY"
         },
         "policy": {
           "number": "284069600",
@@ -222,7 +222,7 @@
         "insured": {
           "name": "WENLONG ZHAO",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Riverside, CA"
         },
         "policy": {
           "number": "799403500",
@@ -260,7 +260,7 @@
         "insured": {
           "name": "JIANXUN LI",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Bar, CA"
         },
         "policy": {
           "number": "799799600",
@@ -298,7 +298,7 @@
         "insured": {
           "name": "WEN HE",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "799802600",
@@ -342,7 +342,7 @@
         "insured": {
           "name": "FENG HU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "799804400",
@@ -386,7 +386,7 @@
         "insured": {
           "name": "SUOLA ZHU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "EASTVALE, CA"
         },
         "policy": {
           "number": "800165500",
@@ -430,7 +430,7 @@
         "insured": {
           "name": "QING LI",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "800183100",
@@ -518,7 +518,7 @@
         "insured": {
           "name": "YI CHUN WONG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Santa Clara, CA"
         },
         "policy": {
           "number": "800791400",
@@ -562,7 +562,7 @@
         "insured": {
           "name": "WAI YI LEE",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Santa Clara, CA"
         },
         "policy": {
           "number": "800791800",
@@ -606,7 +606,7 @@
         "insured": {
           "name": "WEI LU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Walnut, CA"
         },
         "policy": {
           "number": "801150800",
@@ -650,7 +650,7 @@
         "insured": {
           "name": "ZHENHUA CHEN",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Dublin, OH"
         },
         "policy": {
           "number": "801276500",
@@ -688,7 +688,7 @@
         "insured": {
           "name": "QI MIAO",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Jose, CA"
         },
         "policy": {
           "number": "801531600",
@@ -732,7 +732,7 @@
         "insured": {
           "name": "SHOUKUN XU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "801581700",
@@ -770,7 +770,7 @@
         "insured": {
           "name": "QING MIAO",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "801584700",
@@ -814,7 +814,7 @@
         "insured": {
           "name": "HANYU ZHANG",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "IRVINE, CA"
         },
         "policy": {
           "number": "801630400",
@@ -852,7 +852,7 @@
         "insured": {
           "name": "XIUMEI ZHU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Clermont, FL"
         },
         "policy": {
           "number": "801739900",
@@ -896,7 +896,7 @@
         "insured": {
           "name": "FAFENG NI",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Clermont, FL"
         },
         "policy": {
           "number": "801740800",
@@ -940,7 +940,7 @@
         "insured": {
           "name": "SHU-YI LIN",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Barbara, CA"
         },
         "policy": {
           "number": "801782900",
@@ -978,7 +978,7 @@
         "insured": {
           "name": "AMANDA XIA",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Yorba Linda, CA"
         },
         "policy": {
           "number": "801814400",
@@ -1022,7 +1022,7 @@
         "insured": {
           "name": "WENBIN CHEN",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Piscataway, NJ"
         },
         "policy": {
           "number": "801899700",
@@ -1066,7 +1066,7 @@
         "insured": {
           "name": "CHUNG KEN PU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Lafayette, CA"
         },
         "policy": {
           "number": "801912300",
@@ -1110,7 +1110,7 @@
         "insured": {
           "name": "YIRAN MA",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Lafayette, CA"
         },
         "policy": {
           "number": "801930100",
@@ -1154,7 +1154,7 @@
         "insured": {
           "name": "WEIJIE HUANG",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Redmond, WA"
         },
         "policy": {
           "number": "801961000",
@@ -1192,7 +1192,7 @@
         "insured": {
           "name": "XUELING BAI",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Irvine, CA"
         },
         "policy": {
           "number": "801963900",
@@ -1236,7 +1236,7 @@
         "insured": {
           "name": "JIALU CHEN",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Baldwin Park, CA"
         },
         "policy": {
           "number": "802004100",
@@ -1274,7 +1274,7 @@
         "insured": {
           "name": "JUNJIE HUANG",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Baldwin Park, CA"
         },
         "policy": {
           "number": "802012500",
@@ -1318,7 +1318,7 @@
         "insured": {
           "name": "CHENGJIN TAO",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Portage, MI"
         },
         "policy": {
           "number": "802053400",
@@ -1362,7 +1362,7 @@
         "insured": {
           "name": "TRAN VUONG TRAN",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Anaheim, CA"
         },
         "policy": {
           "number": "802204300",
@@ -1400,7 +1400,7 @@
         "insured": {
           "name": "LILI YU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Anaheim, CA"
         },
         "policy": {
           "number": "802206900",
@@ -1438,7 +1438,7 @@
         "insured": {
           "name": "DANDAN LIU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Monterey Park, CA"
         },
         "policy": {
           "number": "802578200",
@@ -1476,7 +1476,7 @@
         "insured": {
           "name": "DI WU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Johns Creek, GA"
         },
         "policy": {
           "number": "802618300",
@@ -1520,7 +1520,7 @@
         "insured": {
           "name": "YANHUI LI",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "IRVINE, CA"
         },
         "policy": {
           "number": "803523500",
@@ -1558,7 +1558,7 @@
         "insured": {
           "name": "HUIXIAO YANG",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "IRVINE, CA"
         },
         "policy": {
           "number": "803523700",
@@ -1602,7 +1602,7 @@
         "insured": {
           "name": "JIAOJIAO LI",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Lawrenceville, GA"
         },
         "policy": {
           "number": "803524500",
@@ -1646,7 +1646,7 @@
         "insured": {
           "name": "WEIYI ZHAO",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Arcadia, CA"
         },
         "policy": {
           "number": "803603100",
@@ -1690,7 +1690,7 @@
         "insured": {
           "name": "XIANGYU LIU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Cucamonga, CA"
         },
         "policy": {
           "number": "804008800",
@@ -1734,7 +1734,7 @@
         "insured": {
           "name": "XIANGYU LIU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Cucamonga, CA"
         },
         "policy": {
           "number": "804025100",
@@ -1778,7 +1778,7 @@
         "insured": {
           "name": "YAOJIE PANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "City, CA"
         },
         "policy": {
           "number": "804134800",
@@ -1822,7 +1822,7 @@
         "insured": {
           "name": "JIE CUI",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Redmond, WA"
         },
         "policy": {
           "number": "804156800",
@@ -1860,7 +1860,7 @@
         "insured": {
           "name": "BEINING NIE",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Winchester, MA"
         },
         "policy": {
           "number": "804200700",
@@ -1898,7 +1898,7 @@
         "insured": {
           "name": "HONGLING SHEN",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Eastvale, CA"
         },
         "policy": {
           "number": "804211800",
@@ -1936,7 +1936,7 @@
         "insured": {
           "name": "WENBIN WANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Cucamonga, CA"
         },
         "policy": {
           "number": "804227400",
@@ -2018,7 +2018,7 @@
         "insured": {
           "name": "HUI PING TAN",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Covina, CA"
         },
         "policy": {
           "number": "804326800",
@@ -2056,7 +2056,7 @@
         "insured": {
           "name": "MINGCHEN WU",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "San Diego, CA"
         },
         "policy": {
           "number": "804628800",
@@ -2094,7 +2094,7 @@
         "insured": {
           "name": "QIANG HU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "San Jose, CA"
         },
         "policy": {
           "number": "804752900",
@@ -2132,7 +2132,7 @@
         "insured": {
           "name": "HUI LIN",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Hixson, TN"
         },
         "policy": {
           "number": "804922900",
@@ -2176,7 +2176,7 @@
         "insured": {
           "name": "SIMING CHENG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Covina, CA"
         },
         "policy": {
           "number": "805046700",
@@ -2220,7 +2220,7 @@
         "insured": {
           "name": "JIAN GUO",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Walnut, CA"
         },
         "policy": {
           "number": "805667600",
@@ -2264,7 +2264,7 @@
         "insured": {
           "name": "YIJIE XU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Harrison, NJ"
         },
         "policy": {
           "number": "805837600",
@@ -2308,7 +2308,7 @@
         "insured": {
           "name": "YINUO YANG WANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Southborough, MA"
         },
         "policy": {
           "number": "806092800",
@@ -2352,7 +2352,7 @@
         "insured": {
           "name": "WEI LI",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Pasadena, CA"
         },
         "policy": {
           "number": "LS2176582",
@@ -2390,7 +2390,7 @@
         "insured": {
           "name": "MUXING LIANG",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Pomona, CA"
         },
         "policy": {
           "number": "LS2184297",
@@ -2428,7 +2428,7 @@
         "insured": {
           "name": "JUN RU CHEN",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "IRVINE, CA"
         },
         "policy": {
           "number": "LS2184775",
@@ -2466,7 +2466,7 @@
         "insured": {
           "name": "SHENG HUANG",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Alto, CA"
         },
         "policy": {
           "number": "LS2188213",
@@ -2504,7 +2504,7 @@
         "insured": {
           "name": "WENLONG ZHAO",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Riverside, CA"
         },
         "policy": {
           "number": "LS2190087",
@@ -2542,7 +2542,7 @@
         "insured": {
           "name": "TIANYOU HU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "LS2190833",
@@ -2580,7 +2580,7 @@
         "insured": {
           "name": "TIANYI EASON HU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "LS2190977",
@@ -2618,7 +2618,7 @@
         "insured": {
           "name": "YOUXIN DING",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "LS2191821",
@@ -2656,7 +2656,7 @@
         "insured": {
           "name": "SHANQI DING",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Carlisle, PA"
         },
         "policy": {
           "number": "LS2191894",
@@ -2694,7 +2694,7 @@
         "insured": {
           "name": "HUI TANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Carlisle, PA"
         },
         "policy": {
           "number": "LS2191933",
@@ -2732,7 +2732,7 @@
         "insured": {
           "name": "JAMES POTTER",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Covina, CA"
         },
         "policy": {
           "number": "LS2192721",
@@ -2770,7 +2770,7 @@
         "insured": {
           "name": "MAOXINGZE LI",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "LS2193518",
@@ -2808,7 +2808,7 @@
         "insured": {
           "name": "XIANGDI YU",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Oswego, OR"
         },
         "policy": {
           "number": "LS2197450",
@@ -2846,7 +2846,7 @@
         "insured": {
           "name": "QING LI",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "LS2198040",
@@ -2884,7 +2884,7 @@
         "insured": {
           "name": "MAOXINYI LI",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Ridgewood, NJ"
         },
         "policy": {
           "number": "LS2198072",
@@ -2922,7 +2922,7 @@
         "insured": {
           "name": "ELIE TONG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Ridgewood, NJ"
         },
         "policy": {
           "number": "LS2198081",
@@ -2960,7 +2960,7 @@
         "insured": {
           "name": "WENZONG TANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Ridgewood, NJ"
         },
         "policy": {
           "number": "LS2198103",
@@ -2998,7 +2998,7 @@
         "insured": {
           "name": "JASPER HE",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "LS2198658",
@@ -3036,7 +3036,7 @@
         "insured": {
           "name": "XIYU ZHANG",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Diamond Bar, CA"
         },
         "policy": {
           "number": "LS2201145",
@@ -3074,7 +3074,7 @@
         "insured": {
           "name": "DANHUI WANG",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Oklahoma City, OK"
         },
         "policy": {
           "number": "LS2201212",
@@ -3188,7 +3188,7 @@
         "insured": {
           "name": "MAGGIE ZHEN",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Tracy, CA"
         },
         "policy": {
           "number": "LS2201502",
@@ -3226,7 +3226,7 @@
         "insured": {
           "name": "KERRY ZHEN",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Tracy, CA"
         },
         "policy": {
           "number": "LS2201509",
@@ -3264,7 +3264,7 @@
         "insured": {
           "name": "MICHELLE ZHEN",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Tracy, CA"
         },
         "policy": {
           "number": "LS2201526",
@@ -3302,7 +3302,7 @@
         "insured": {
           "name": "CAN ZHENG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Pittsburgh, PA"
         },
         "policy": {
           "number": "LS2201535",
@@ -3378,7 +3378,7 @@
         "insured": {
           "name": "GUANZHOU ZHENG",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Jose, CA"
         },
         "policy": {
           "number": "LS2222805",
@@ -3416,7 +3416,7 @@
         "insured": {
           "name": "GUANZHOU ZHENG",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Jose, CA"
         },
         "policy": {
           "number": "LS2223104",
@@ -3454,7 +3454,7 @@
         "insured": {
           "name": "WANGQIAO XU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "ONTARIO, CA"
         },
         "policy": {
           "number": "LS2223682",
@@ -3492,7 +3492,7 @@
         "insured": {
           "name": "AMANDA XIA",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Yorba Linda, CA"
         },
         "policy": {
           "number": "LS2227046",
@@ -3530,7 +3530,7 @@
         "insured": {
           "name": "YONG ZHI LIN",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Allentown, PA"
         },
         "policy": {
           "number": "LS2227735",
@@ -3568,7 +3568,7 @@
         "insured": {
           "name": "RICHIE ZHANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Carlisle, PA"
         },
         "policy": {
           "number": "LS2228103",
@@ -3606,7 +3606,7 @@
         "insured": {
           "name": "ANZHENG TANG",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Northfield, MN"
         },
         "policy": {
           "number": "LS2231592",
@@ -3644,7 +3644,7 @@
         "insured": {
           "name": "JIABEI XIA",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Yorba Linda, CA"
         },
         "policy": {
           "number": "LS2233853",
@@ -3682,7 +3682,7 @@
         "insured": {
           "name": "YIMING ZHANG",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "DAVIS, CA"
         },
         "policy": {
           "number": "LS2236560",
@@ -3720,7 +3720,7 @@
         "insured": {
           "name": "JIANHUA DUFFY",
           "age_decade": "60s",
-          "city_state": ""
+          "city_state": "Vegas, NV"
         },
         "policy": {
           "number": "LS2238011",
@@ -3758,7 +3758,7 @@
         "insured": {
           "name": "IVAN MA",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "IRVINE, CA"
         },
         "policy": {
           "number": "LS2241328",
@@ -3796,7 +3796,7 @@
         "insured": {
           "name": "EDWIN MA",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "IRVINE, CA"
         },
         "policy": {
           "number": "LS2241359",
@@ -3834,7 +3834,7 @@
         "insured": {
           "name": "QIRUI WANG",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "La Quinta, CA"
         },
         "policy": {
           "number": "LS2249559",
@@ -3872,7 +3872,7 @@
         "insured": {
           "name": "LIXIU LIU",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Pico Rivera, CA"
         },
         "policy": {
           "number": "LS2250275",
@@ -3910,7 +3910,7 @@
         "insured": {
           "name": "LIANGAI LI",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Gladstone, OR"
         },
         "policy": {
           "number": "LS2253311",
@@ -3948,7 +3948,7 @@
         "insured": {
           "name": "KOBE S PHAKHAM",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Anaheim, CA"
         },
         "policy": {
           "number": "LS2263295",
@@ -3986,7 +3986,7 @@
         "insured": {
           "name": "SEAN PHAKHAM",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Anaheim, CA"
         },
         "policy": {
           "number": "LS2264878",
@@ -4062,7 +4062,7 @@
         "insured": {
           "name": "JOANNA XU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Arcadia, CA"
         },
         "policy": {
           "number": "LS2270821",
@@ -4100,7 +4100,7 @@
         "insured": {
           "name": "TYAN JOSHUA BAI",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Arcadia, CA"
         },
         "policy": {
           "number": "LS2270876",
@@ -4138,7 +4138,7 @@
         "insured": {
           "name": "LI LIU",
           "age_decade": "50s",
-          "city_state": ""
+          "city_state": "Alto, CA"
         },
         "policy": {
           "number": "LS2281544",
@@ -4176,7 +4176,7 @@
         "insured": {
           "name": "SHAOXIANG HOU",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Ontario, CA"
         },
         "policy": {
           "number": "LS2292226",
@@ -4214,7 +4214,7 @@
         "insured": {
           "name": "YIXIAN ZANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Alhambra, CA"
         },
         "policy": {
           "number": "LS2294647",
@@ -4252,7 +4252,7 @@
         "insured": {
           "name": "ERIC ZANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Alhambra, CA"
         },
         "policy": {
           "number": "LS2294753",
@@ -4290,7 +4290,7 @@
         "insured": {
           "name": "ANGELA ZANG",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Alhambra, CA"
         },
         "policy": {
           "number": "LS2294790",
@@ -4328,7 +4328,7 @@
         "insured": {
           "name": "ZIMU LIU",
           "age_decade": "20s",
-          "city_state": ""
+          "city_state": "Monte, CA"
         },
         "policy": {
           "number": "LS2296564",
@@ -4366,7 +4366,7 @@
         "insured": {
           "name": "HONGSHAN LI",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Chino, CA"
         },
         "policy": {
           "number": "LS2299265",
@@ -4404,7 +4404,7 @@
         "insured": {
           "name": "DONGHONG FAN",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Houston, TX"
         },
         "policy": {
           "number": "LS2300682",
@@ -4442,7 +4442,7 @@
         "insured": {
           "name": "RYAN PIAO",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "Alhambra, CA"
         },
         "policy": {
           "number": "LS2301180",
@@ -4480,7 +4480,7 @@
         "insured": {
           "name": "XIAN LI",
           "age_decade": "30s",
-          "city_state": ""
+          "city_state": "James, NY"
         },
         "policy": {
           "number": "NL2834711",
@@ -4518,7 +4518,7 @@
         "insured": {
           "name": "GANG LI",
           "age_decade": "40s",
-          "city_state": ""
+          "city_state": "Flushing, NY"
         },
         "policy": {
           "number": "NL2835413",
