@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-18T02:21:19",
+  "generated_at": "2026-05-18T02:29:23",
   "salt_hash": "ee77eec6",
   "count": 114,
   "clients": [
@@ -239,8 +239,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "H. Z.",
-            "relationship": "家人"
+            "name": "HUAIDE ZHAO"
           }
         ],
         "agent": {
@@ -321,8 +320,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "F. H.",
-            "relationship": "受益人"
+            "name": "FENG HU"
           }
         ],
         "agent": {
@@ -365,8 +363,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "W. H.",
-            "relationship": "受益人"
+            "name": "WEN HE"
           }
         ],
         "agent": {
@@ -541,8 +538,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "W. L.",
-            "relationship": "受益人"
+            "name": "WAI LEE"
           }
         ],
         "agent": {
@@ -667,8 +663,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "C. C.",
-            "relationship": "家人"
+            "name": "CAROLINE CHEN"
           }
         ],
         "agent": {
@@ -711,8 +706,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "G. Z.",
-            "relationship": "受益人"
+            "name": "GUANZHOU ZHENG"
           }
         ],
         "agent": {
@@ -749,8 +743,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "Q. M.",
-            "relationship": "受益人"
+            "name": "QING MIAO"
           }
         ],
         "agent": {
@@ -831,8 +824,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "N. L.",
-            "relationship": "受益人"
+            "name": "NAIQI LI"
           }
         ],
         "agent": {
@@ -957,8 +949,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "Y. H.",
-            "relationship": "受益人"
+            "name": "YIN-SHUAN HSU"
           }
         ],
         "agent": {
@@ -1089,8 +1080,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "Y. M.",
-            "relationship": "受益人"
+            "name": "YIRAN MA"
           }
         ],
         "agent": {
@@ -1215,8 +1205,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "J. B.",
-            "relationship": "家人"
+            "name": "JINGYI BAI"
           }
         ],
         "agent": {
@@ -1581,8 +1570,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "D. L.",
-            "relationship": "受益人"
+            "name": "DAVID LI"
           }
         ],
         "agent": {
@@ -1625,8 +1613,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "Y. C.",
-            "relationship": "受益人"
+            "name": "YING CAI"
           }
         ],
         "agent": {
@@ -1669,8 +1656,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "X. L.",
-            "relationship": "受益人"
+            "name": "XIAOLI LI"
           }
         ],
         "agent": {
@@ -1713,8 +1699,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "J. L.",
-            "relationship": "家人"
+            "name": "JESSIE LIU"
           }
         ],
         "agent": {
@@ -1757,8 +1742,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "J. L.",
-            "relationship": "家人"
+            "name": "JESSIE LIU"
           }
         ],
         "agent": {
@@ -1915,8 +1899,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "S. L.",
-            "relationship": "受益人"
+            "name": "SONGFENG LI"
           }
         ],
         "agent": {
@@ -2199,8 +2182,7 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "K. C.",
-            "relationship": "家人"
+            "name": "KAIQI CHENG"
           }
         ],
         "agent": {
@@ -2369,8 +2351,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "L. M.",
-            "relationship": "受益人"
+            "name": "LIQUN MAO"
           }
         ],
         "agent": {
@@ -2483,8 +2464,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "L. L.",
-            "relationship": "受益人"
+            "name": "LI LIU"
           }
         ],
         "agent": {
@@ -2559,8 +2539,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "W. H.",
-            "relationship": "受益人"
+            "name": "WEN HE"
           }
         ],
         "agent": {
@@ -2597,8 +2576,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "F. H.",
-            "relationship": "家人"
+            "name": "FENG HU"
           }
         ],
         "agent": {
@@ -2673,8 +2651,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "Y. D.",
-            "relationship": "家人"
+            "name": "YANXIN DING"
           }
         ],
         "agent": {
@@ -2711,8 +2688,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "R. Z.",
-            "relationship": "受益人"
+            "name": "RICHIE ZHANG"
           }
         ],
         "agent": {
@@ -3585,8 +3561,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "Y. D.",
-            "relationship": "受益人"
+            "name": "YOUXIN DING"
           }
         ],
         "agent": {
@@ -3623,8 +3598,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "Y. X.",
-            "relationship": "受益人"
+            "name": "YING XU"
           }
         ],
         "agent": {
@@ -3699,8 +3673,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "H. L.",
-            "relationship": "受益人"
+            "name": "HUI LIU"
           }
         ],
         "agent": {
@@ -3851,8 +3824,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "H. G.",
-            "relationship": "受益人"
+            "name": "HAIPING GONG"
           }
         ],
         "agent": {
@@ -3889,8 +3861,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "S. P.",
-            "relationship": "受益人"
+            "name": "STEVEN PHAM"
           }
         ],
         "agent": {
@@ -3965,8 +3936,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "K. P.",
-            "relationship": "家人"
+            "name": "KHEMPHONE PHAKHAM"
           }
         ],
         "agent": {
@@ -4079,8 +4049,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "L. J.",
-            "relationship": "受益人"
+            "name": "LEI JIN"
           }
         ],
         "agent": {
@@ -4117,8 +4086,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "L. J.",
-            "relationship": "受益人"
+            "name": "LEI JIN"
           }
         ],
         "agent": {
@@ -4535,8 +4503,7 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "Y. G.",
-            "relationship": "受益人"
+            "name": "YANG GUO"
           }
         ],
         "agent": {

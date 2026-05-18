@@ -246,9 +246,9 @@
 
       const beneHtml = bens.length
         ? bens.map(b =>
-            '<div class="row"><span class="label">' + (b.relationship || '受益人') + '</span><span class="value">' + b.display + '</span></div>'
+            '<div class="row"><span class="value" style="font-weight:600;">' + b.name + '</span></div>'
           ).join('')
-        : '<div class="row"><span class="label">详见正式申请书</span></div>';
+        : '<div class="row"><span class="value" style="font-style:italic;color:#9ca3af;">（受益人信息详见正式申请书）</span></div>';
 
       const html = [
         '<div class="hero">',
