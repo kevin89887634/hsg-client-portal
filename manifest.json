@@ -1,709 +1,4550 @@
 {
-  "version": 1,
+  "version": 2,
+  "generated_at": "2026-05-18T01:57:11",
   "salt_hash": "ee77eec6",
-  "count": 117,
+  "count": 114,
   "clients": [
     {
       "token": "091c9ec1f7b2",
       "policy_id": "282600300",
       "owner_name": "YANMEI TANG",
-      "pdf": "pdfs/091c9ec1f7b2.pdf"
-    },
-    {
-      "token": "091c9ec1f7b2",
-      "policy_id": "282600300",
-      "owner_name": "YANMEI TANG",
-      "pdf": "pdfs/091c9ec1f7b2.pdf"
+      "pdf": "pdfs/091c9ec1f7b2.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YANMEI TANG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "282600300",
+          "status": "Inforce",
+          "product": "NL GL-30 Term",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-21",
+          "convertible_through": "2046-01-21",
+          "paid_to_date": "2026-05-21",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 3 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "e916b281a6f5",
       "policy_id": "282600400",
       "owner_name": "GUOQING LIU",
-      "pdf": "pdfs/e916b281a6f5.pdf"
+      "pdf": "pdfs/e916b281a6f5.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "GUOQING LIU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "282600400",
+          "status": "Inforce",
+          "product": "NL GL-20 Term",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-22",
+          "convertible_through": "2041-01-22",
+          "paid_to_date": "2026-05-22",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 4 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "aaa93461b5fa",
       "policy_id": "282858800",
       "owner_name": "DIHUA TANG",
-      "pdf": "pdfs/aaa93461b5fa.pdf"
+      "pdf": "pdfs/aaa93461b5fa.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "DIHUA TANG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "282858800",
+          "status": "Inforce",
+          "product": "NL GL-20 Term",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-23",
+          "convertible_through": "2041-02-23",
+          "paid_to_date": "2026-05-23",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 5 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "8712560dab73",
       "policy_id": "283191800",
       "owner_name": "XIN CHEN",
-      "pdf": "pdfs/8712560dab73.pdf"
+      "pdf": "pdfs/8712560dab73.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIN CHEN",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "283191800",
+          "status": "Inforce",
+          "product": "NL GL-10 Term",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-05",
+          "convertible_through": "2036-03-05",
+          "paid_to_date": "2026-06-05",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "887ed1d3c806",
       "policy_id": "284069600",
       "owner_name": "WENXIU DONG",
-      "pdf": "pdfs/887ed1d3c806.pdf"
+      "pdf": "pdfs/887ed1d3c806.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WENXIU DONG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "284069600",
+          "status": "Issued Not Paid",
+          "product": "NL GL-30 Term",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-05-04",
+          "convertible_through": "2046-05-04",
+          "paid_to_date": "2026-06-04",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d8fc26aaf8dc",
       "policy_id": "799403500",
-      "owner_name": "WENLONG",
-      "pdf": "pdfs/d8fc26aaf8dc.pdf"
+      "owner_name": "WENLONG ZHAO",
+      "pdf": "pdfs/d8fc26aaf8dc.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WENLONG ZHAO",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "799403500",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2025-12-17",
+          "convertible_through": "2045-12-17",
+          "paid_to_date": "2026-12-17",
+          "next_premium_due": "2026-12-17",
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "HUAIDE Z***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "05865d70526f",
       "policy_id": "799799600",
       "owner_name": "JIANXUN LI",
-      "pdf": "pdfs/05865d70526f.pdf"
+      "pdf": "pdfs/05865d70526f.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIANXUN LI",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "799799600",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-08",
+          "convertible_through": "2036-01-08",
+          "paid_to_date": "2027-01-08",
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "3eb74c951fc5",
       "policy_id": "799802600",
       "owner_name": "WEN HE",
-      "pdf": "pdfs/3eb74c951fc5.pdf"
+      "pdf": "pdfs/3eb74c951fc5.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WEN HE",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "799802600",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2025-12-17",
+          "convertible_through": "2040-12-17",
+          "paid_to_date": "2026-05-17",
+          "next_premium_due": "2026-05-17",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "overdue",
+            "severity": "medium",
+            "msg": "💡 上次付款已过 1 天, 请确认"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "FENG H***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "60dcb9d835f4",
       "policy_id": "799804400",
       "owner_name": "FENG HU",
-      "pdf": "pdfs/60dcb9d835f4.pdf"
+      "pdf": "pdfs/60dcb9d835f4.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "FENG HU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "799804400",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2025-12-17",
+          "convertible_through": "2040-12-17",
+          "paid_to_date": "2026-05-17",
+          "next_premium_due": "2026-05-17",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "overdue",
+            "severity": "medium",
+            "msg": "💡 上次付款已过 1 天, 请确认"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "WEN H***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "76c7835072d0",
       "policy_id": "800165500",
       "owner_name": "SUOLA ZHU",
-      "pdf": "pdfs/76c7835072d0.pdf"
+      "pdf": "pdfs/76c7835072d0.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SUOLA ZHU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "800165500",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2025-12-25",
+          "convertible_through": "2035-12-25",
+          "paid_to_date": "2026-05-25",
+          "next_premium_due": "2026-05-25",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 7 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "808b88bd6f1e",
       "policy_id": "800183100",
       "owner_name": "QING LI",
-      "pdf": "pdfs/808b88bd6f1e.pdf"
+      "pdf": "pdfs/808b88bd6f1e.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "QING LI",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "800183100",
+          "status": "Inforce",
+          "product": "LSW ART",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-11",
+          "convertible_through": "2036-02-11",
+          "paid_to_date": "2026-05-11",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "5c2ffd5c6e99",
       "policy_id": "800565000",
       "owner_name": "JIHAO YU",
-      "pdf": "pdfs/5c2ffd5c6e99.pdf"
+      "pdf": "pdfs/5c2ffd5c6e99.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIHAO YU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "800565000",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-21",
+          "convertible_through": "2041-01-21",
+          "paid_to_date": "2026-05-21",
+          "next_premium_due": "2026-05-21",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 3 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "10a743c1c97e",
       "policy_id": "800791400",
       "owner_name": "YI CHUN WONG",
-      "pdf": "pdfs/10a743c1c97e.pdf"
+      "pdf": "pdfs/10a743c1c97e.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YI CHUN WONG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "800791400",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-13",
+          "convertible_through": "2041-01-13",
+          "paid_to_date": "2026-05-13",
+          "next_premium_due": "2026-05-13",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "overdue",
+            "severity": "medium",
+            "msg": "💡 上次付款已过 5 天, 请确认"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "WAI L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "6d5c3a39f9c4",
       "policy_id": "800791800",
       "owner_name": "WAI YI LEE",
-      "pdf": "pdfs/6d5c3a39f9c4.pdf"
+      "pdf": "pdfs/6d5c3a39f9c4.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WAI YI LEE",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "800791800",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-21",
+          "convertible_through": "2041-01-21",
+          "paid_to_date": "2026-05-21",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 3 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "3f906aca3476",
       "policy_id": "801150800",
       "owner_name": "WEI LU",
-      "pdf": "pdfs/3f906aca3476.pdf"
+      "pdf": "pdfs/3f906aca3476.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WEI LU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801150800",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-01-21",
+          "convertible_through": "2036-01-21",
+          "paid_to_date": "2026-05-21",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 3 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "8fe1be70985a",
       "policy_id": "801276500",
       "owner_name": "ZHENHUA CHEN",
-      "pdf": "pdfs/8fe1be70985a.pdf"
+      "pdf": "pdfs/8fe1be70985a.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ZHENHUA CHEN",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801276500",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-10",
+          "convertible_through": "2041-03-10",
+          "paid_to_date": "2026-06-10",
+          "next_premium_due": "2026-06-01",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "CAROLINE C***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "eb8c1dd07998",
       "policy_id": "801531600",
       "owner_name": "QI MIAO",
-      "pdf": "pdfs/eb8c1dd07998.pdf"
+      "pdf": "pdfs/eb8c1dd07998.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "QI MIAO",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801531600",
+          "status": "Inforce",
+          "product": "LSW Level Term 15-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-01",
+          "convertible_through": "2038-02-01",
+          "paid_to_date": "2026-05-01",
+          "next_premium_due": "2026-05-29",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 17 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "GUANZHOU Z***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "7f9fc8490248",
       "policy_id": "801581700",
       "owner_name": "SHOUKUN XU",
-      "pdf": "pdfs/7f9fc8490248.pdf"
+      "pdf": "pdfs/7f9fc8490248.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SHOUKUN XU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801581700",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-04",
+          "convertible_through": "2041-02-04",
+          "paid_to_date": "2026-06-04",
+          "next_premium_due": "2026-06-04",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "QING M***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "aa92c9cc073a",
       "policy_id": "801584700",
       "owner_name": "QING MIAO",
-      "pdf": "pdfs/aa92c9cc073a.pdf"
+      "pdf": "pdfs/aa92c9cc073a.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "QING MIAO",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801584700",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-11",
+          "convertible_through": "2041-02-11",
+          "paid_to_date": "2026-05-11",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "4719c7331fb1",
       "policy_id": "801630400",
       "owner_name": "HANYU ZHANG",
-      "pdf": "pdfs/4719c7331fb1.pdf"
+      "pdf": "pdfs/4719c7331fb1.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HANYU ZHANG",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801630400",
+          "status": "Inforce",
+          "product": "LSW Level Term 15-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-03",
+          "convertible_through": "2038-02-03",
+          "paid_to_date": "2026-06-03",
+          "next_premium_due": "2026-06-03",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "NAIQI L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d5281956e804",
       "policy_id": "801739900",
       "owner_name": "XIUMEI ZHU",
-      "pdf": "pdfs/d5281956e804.pdf"
+      "pdf": "pdfs/d5281956e804.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIUMEI ZHU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801739900",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-18",
+          "convertible_through": "2041-02-18",
+          "paid_to_date": "2026-05-18",
+          "next_premium_due": "2026-05-18",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 0 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "29c59e22d6e9",
       "policy_id": "801740800",
       "owner_name": "FAFENG NI",
-      "pdf": "pdfs/29c59e22d6e9.pdf"
+      "pdf": "pdfs/29c59e22d6e9.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "FAFENG NI",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801740800",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-09",
+          "convertible_through": "2041-02-09",
+          "paid_to_date": "2026-05-09",
+          "next_premium_due": "2026-05-09",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "16cbc812fee7",
       "policy_id": "801782900",
       "owner_name": "SHU-YI LIN",
-      "pdf": "pdfs/16cbc812fee7.pdf"
+      "pdf": "pdfs/16cbc812fee7.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SHU-YI LIN",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801782900",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-05",
+          "convertible_through": "2041-02-05",
+          "paid_to_date": "2026-06-05",
+          "next_premium_due": "2026-06-05",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "YIN-SHUAN H***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "8df82a85725d",
       "policy_id": "801814400",
       "owner_name": "AMANDA XIA",
-      "pdf": "pdfs/8df82a85725d.pdf"
+      "pdf": "pdfs/8df82a85725d.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "AMANDA XIA",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801814400",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-10",
+          "convertible_through": "2041-02-10",
+          "paid_to_date": "2026-05-10",
+          "next_premium_due": "2026-05-10",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 8 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "0a0dc745cede",
       "policy_id": "801899700",
       "owner_name": "WENBIN CHEN",
-      "pdf": "pdfs/0a0dc745cede.pdf"
+      "pdf": "pdfs/0a0dc745cede.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WENBIN CHEN",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801899700",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-09",
+          "convertible_through": "2041-02-09",
+          "paid_to_date": "2026-05-09",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "80cff138adb2",
       "policy_id": "801912300",
       "owner_name": "CHUNG KEN PU",
-      "pdf": "pdfs/80cff138adb2.pdf"
+      "pdf": "pdfs/80cff138adb2.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "CHUNG KEN PU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801912300",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-09",
+          "convertible_through": "2041-03-09",
+          "paid_to_date": "2026-05-09",
+          "next_premium_due": "2026-05-09",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "YIRAN M***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "a80b7ee056b0",
       "policy_id": "801930100",
       "owner_name": "YIRAN MA",
-      "pdf": "pdfs/a80b7ee056b0.pdf"
+      "pdf": "pdfs/a80b7ee056b0.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YIRAN MA",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801930100",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-11",
+          "convertible_through": "2046-02-11",
+          "paid_to_date": "2026-05-11",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "7729ec2bba6d",
       "policy_id": "801961000",
       "owner_name": "WEIJIE HUANG",
-      "pdf": "pdfs/7729ec2bba6d.pdf"
+      "pdf": "pdfs/7729ec2bba6d.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WEIJIE HUANG",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801961000",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-11",
+          "convertible_through": "2041-02-11",
+          "paid_to_date": "2027-02-11",
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "4348e5e5f264",
       "policy_id": "801963900",
       "owner_name": "XUELING BAI",
-      "pdf": "pdfs/4348e5e5f264.pdf"
+      "pdf": "pdfs/4348e5e5f264.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XUELING BAI",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "801963900",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-06",
+          "convertible_through": "2041-02-06",
+          "paid_to_date": "2026-05-06",
+          "next_premium_due": "2026-05-06",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 12 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "JINGYI B***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "5449d51b3a25",
       "policy_id": "802004100",
       "owner_name": "JIALU CHEN",
-      "pdf": "pdfs/5449d51b3a25.pdf"
+      "pdf": "pdfs/5449d51b3a25.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIALU CHEN",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802004100",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-02",
+          "convertible_through": "2046-04-02",
+          "paid_to_date": "2026-06-02",
+          "next_premium_due": "2026-06-02",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "3207981146ca",
       "policy_id": "802012500",
       "owner_name": "JUNJIE HUANG",
-      "pdf": "pdfs/3207981146ca.pdf"
+      "pdf": "pdfs/3207981146ca.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JUNJIE HUANG",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802012500",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-17",
+          "convertible_through": "2046-03-17",
+          "paid_to_date": "2026-05-17",
+          "next_premium_due": "2026-05-17",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "overdue",
+            "severity": "medium",
+            "msg": "💡 上次付款已过 1 天, 请确认"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "3ccb1fc4a683",
       "policy_id": "802053400",
       "owner_name": "CHENGJIN TAO",
-      "pdf": "pdfs/3ccb1fc4a683.pdf"
+      "pdf": "pdfs/3ccb1fc4a683.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "CHENGJIN TAO",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802053400",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-11",
+          "convertible_through": "2041-02-11",
+          "paid_to_date": "2026-05-11",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "078240419f58",
       "policy_id": "802204300",
-      "owner_name": "TRAN VUONG",
-      "pdf": "pdfs/078240419f58.pdf"
+      "owner_name": "TRAN VUONG TRAN",
+      "pdf": "pdfs/078240419f58.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "TRAN VUONG TRAN",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802204300",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-04",
+          "convertible_through": "2041-03-04",
+          "paid_to_date": "2027-03-04",
+          "next_premium_due": "2027-03-13",
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "2f7e1b2bf4d4",
       "policy_id": "802206900",
       "owner_name": "LILI YU",
-      "pdf": "pdfs/2f7e1b2bf4d4.pdf"
+      "pdf": "pdfs/2f7e1b2bf4d4.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "LILI YU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802206900",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-13",
+          "convertible_through": "2046-02-13",
+          "paid_to_date": "2027-02-13",
+          "next_premium_due": "2027-02-13",
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "36ba49bb59b4",
       "policy_id": "802578200",
       "owner_name": "DANDAN LIU",
-      "pdf": "pdfs/36ba49bb59b4.pdf"
+      "pdf": "pdfs/36ba49bb59b4.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "DANDAN LIU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802578200",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-20",
+          "convertible_through": "2041-02-20",
+          "paid_to_date": "2027-02-20",
+          "next_premium_due": "2027-02-23",
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "c695d20b2ecf",
       "policy_id": "802618300",
       "owner_name": "DI WU",
-      "pdf": "pdfs/c695d20b2ecf.pdf"
+      "pdf": "pdfs/c695d20b2ecf.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "DI WU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "802618300",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-02-24",
+          "convertible_through": "2046-02-24",
+          "paid_to_date": "2026-05-24",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 6 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "67b26d794083",
       "policy_id": "803523500",
       "owner_name": "YANHUI LI",
-      "pdf": "pdfs/67b26d794083.pdf"
+      "pdf": "pdfs/67b26d794083.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YANHUI LI",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "803523500",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-01",
+          "convertible_through": "2041-04-01",
+          "paid_to_date": "2026-06-01",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "84f91a5ea80d",
       "policy_id": "803523700",
       "owner_name": "HUIXIAO YANG",
-      "pdf": "pdfs/84f91a5ea80d.pdf"
+      "pdf": "pdfs/84f91a5ea80d.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HUIXIAO YANG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "803523700",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-23",
+          "convertible_through": "2046-03-23",
+          "paid_to_date": "2026-05-23",
+          "next_premium_due": "2026-05-23",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 5 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "DAVID L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "dc6a87b9ad10",
       "policy_id": "803524500",
       "owner_name": "JIAOJIAO LI",
-      "pdf": "pdfs/dc6a87b9ad10.pdf"
+      "pdf": "pdfs/dc6a87b9ad10.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIAOJIAO LI",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "803524500",
+          "status": "Issued Not Paid",
+          "product": "LSW Level Term 15-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-23",
+          "convertible_through": "2038-03-23",
+          "paid_to_date": "2026-03-23",
+          "next_premium_due": "2026-03-23",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 56 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "YING C***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "57a1173d27ed",
       "policy_id": "803603100",
       "owner_name": "WEIYI ZHAO",
-      "pdf": "pdfs/57a1173d27ed.pdf"
+      "pdf": "pdfs/57a1173d27ed.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WEIYI ZHAO",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "803603100",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-09",
+          "convertible_through": "2041-03-09",
+          "paid_to_date": "2026-05-09",
+          "next_premium_due": "2026-05-09",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "XIAOLI L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "e905d7141998",
       "policy_id": "804008800",
       "owner_name": "XIANGYU LIU",
-      "pdf": "pdfs/e905d7141998.pdf"
+      "pdf": "pdfs/e905d7141998.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIANGYU LIU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804008800",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-25",
+          "convertible_through": "2036-03-25",
+          "paid_to_date": "2026-05-25",
+          "next_premium_due": "2026-05-25",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 7 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "JESSIE L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "f51e04dad3d7",
       "policy_id": "804025100",
       "owner_name": "XIANGYU LIU",
-      "pdf": "pdfs/f51e04dad3d7.pdf"
+      "pdf": "pdfs/f51e04dad3d7.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIANGYU LIU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804025100",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-25",
+          "convertible_through": "2041-03-25",
+          "paid_to_date": "2026-05-25",
+          "next_premium_due": "2026-05-25",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 7 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "JESSIE L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "242c6dac8403",
       "policy_id": "804134800",
       "owner_name": "YAOJIE PANG",
-      "pdf": "pdfs/242c6dac8403.pdf"
+      "pdf": "pdfs/242c6dac8403.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YAOJIE PANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804134800",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-19",
+          "convertible_through": "2046-03-19",
+          "paid_to_date": "2026-04-19",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 29 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "e1566b72afff",
       "policy_id": "804156800",
       "owner_name": "JIE CUI",
-      "pdf": "pdfs/e1566b72afff.pdf"
+      "pdf": "pdfs/e1566b72afff.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIE CUI",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804156800",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-09",
+          "convertible_through": "2041-04-09",
+          "paid_to_date": "2027-04-09",
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "49985f8e08ac",
       "policy_id": "804200700",
       "owner_name": "BEINING NIE",
-      "pdf": "pdfs/49985f8e08ac.pdf"
+      "pdf": "pdfs/49985f8e08ac.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "BEINING NIE",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804200700",
+          "status": "Inforce",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-13",
+          "convertible_through": "2045-04-13",
+          "paid_to_date": "2027-04-13",
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "1ddb027f6f48",
       "policy_id": "804211800",
-      "owner_name": "HONGLING",
-      "pdf": "pdfs/1ddb027f6f48.pdf"
+      "owner_name": "HONGLING SHEN",
+      "pdf": "pdfs/1ddb027f6f48.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HONGLING SHEN",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804211800",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-27",
+          "convertible_through": "2036-03-27",
+          "paid_to_date": "2026-05-27",
+          "next_premium_due": "2026-05-27",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "SONGFENG L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "YAN DAIJIA",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d6ce7f56e9d6",
       "policy_id": "804227400",
       "owner_name": "WENBIN WANG",
-      "pdf": "pdfs/d6ce7f56e9d6.pdf"
+      "pdf": "pdfs/d6ce7f56e9d6.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WENBIN WANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804227400",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-02",
+          "convertible_through": "2041-04-02",
+          "paid_to_date": "2026-06-02",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "721039ba38f3",
       "policy_id": "804257900",
       "owner_name": "CHUAN XIA LIN",
-      "pdf": "pdfs/721039ba38f3.pdf"
+      "pdf": "pdfs/721039ba38f3.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "CHUAN XIA LIN",
+          "age_decade": "60s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804257900",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-08",
+          "convertible_through": "2033-04-08",
+          "paid_to_date": "2026-05-08",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 10 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d7b8c4dd1421",
       "policy_id": "804326800",
       "owner_name": "HUI PING TAN",
-      "pdf": "pdfs/d7b8c4dd1421.pdf"
+      "pdf": "pdfs/d7b8c4dd1421.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HUI PING TAN",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804326800",
+          "status": "Inforce",
+          "product": "LSW Level Term 10-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-14",
+          "convertible_through": "2036-04-14",
+          "paid_to_date": "2027-04-14",
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "ac44500495db",
       "policy_id": "804628800",
       "owner_name": "MINGCHEN WU",
-      "pdf": "pdfs/ac44500495db.pdf"
+      "pdf": "pdfs/ac44500495db.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "MINGCHEN WU",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804628800",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-30",
+          "convertible_through": "2041-03-30",
+          "paid_to_date": "2027-03-30",
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "62c0a12fe267",
       "policy_id": "804752900",
       "owner_name": "QIANG HU",
-      "pdf": "pdfs/62c0a12fe267.pdf"
+      "pdf": "pdfs/62c0a12fe267.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "QIANG HU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804752900",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-03-31",
+          "convertible_through": "2041-03-31",
+          "paid_to_date": "2026-05-31",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "4914419a3e6f",
       "policy_id": "804922900",
       "owner_name": "HUI LIN",
-      "pdf": "pdfs/4914419a3e6f.pdf"
+      "pdf": "pdfs/4914419a3e6f.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HUI LIN",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "804922900",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-09",
+          "convertible_through": "2041-04-09",
+          "paid_to_date": "2026-05-09",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "deb0996bdcbf",
       "policy_id": "805046700",
       "owner_name": "SIMING CHENG",
-      "pdf": "pdfs/deb0996bdcbf.pdf"
+      "pdf": "pdfs/deb0996bdcbf.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SIMING CHENG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "805046700",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-20",
+          "convertible_through": "2041-04-20",
+          "paid_to_date": "2026-05-20",
+          "next_premium_due": "2026-05-20",
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 2 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "KAIQI C***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "cccfd991e3b8",
       "policy_id": "805667600",
       "owner_name": "JIAN GUO",
-      "pdf": "pdfs/cccfd991e3b8.pdf"
+      "pdf": "pdfs/cccfd991e3b8.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIAN GUO",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "805667600",
+          "status": "Inforce",
+          "product": "LSW Level Term 20-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-22",
+          "convertible_through": "2041-04-22",
+          "paid_to_date": "2026-05-22",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "upcoming",
+            "severity": "low",
+            "msg": "📅 还有 4 天到下次付款日"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "60b9e47c7d07",
       "policy_id": "805837600",
       "owner_name": "YIJIE XU",
-      "pdf": "pdfs/60b9e47c7d07.pdf"
+      "pdf": "pdfs/60b9e47c7d07.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YIJIE XU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "805837600",
+          "status": "Issued Not Paid",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-04-28",
+          "convertible_through": "2046-04-28",
+          "paid_to_date": "2026-04-28",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 20 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "70bf7aa55bcf",
       "policy_id": "806092800",
-      "owner_name": "YINUO YANG",
-      "pdf": "pdfs/70bf7aa55bcf.pdf"
+      "owner_name": "YINUO YANG WANG",
+      "pdf": "pdfs/70bf7aa55bcf.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YINUO YANG WANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "806092800",
+          "status": "Issued Not Paid",
+          "product": "LSW Level Term 30-G",
+          "type": "Term",
+          "face_amount": "",
+          "effective_date": "2026-05-01",
+          "convertible_through": "2046-05-01",
+          "paid_to_date": "2026-05-01",
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [
+          {
+            "type": "lapse_warning",
+            "severity": "high",
+            "msg": "⚠️ 月付逾期 17 天, 请立即联系顾问确认保单"
+          }
+        ],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "da97f270093b",
       "policy_id": "LS2176582",
       "owner_name": "WEI LI",
-      "pdf": "pdfs/da97f270093b.pdf"
+      "pdf": "pdfs/da97f270093b.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WEI LI",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2176582",
+          "status": "Awaiting Initial Payment",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "LIQUN M***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "abffab8950b0",
       "policy_id": "LS2184297",
       "owner_name": "MUXING LIANG",
-      "pdf": "pdfs/abffab8950b0.pdf"
-    },
-    {
-      "token": "d0bd47e6ac87",
-      "policy_id": "LS2184775",
-      "owner_name": "?",
-      "pdf": "pdfs/d0bd47e6ac87.pdf"
+      "pdf": "pdfs/abffab8950b0.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "MUXING LIANG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2184297",
+          "status": "Awaiting Initial Payment",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2025-12-08",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d0bd47e6ac87",
       "policy_id": "LS2184775",
       "owner_name": "JUN RU CHEN",
-      "pdf": "pdfs/d0bd47e6ac87.pdf"
-    },
-    {
-      "token": "d0bd47e6ac87",
-      "policy_id": "LS2184775",
-      "owner_name": "JUN RU CHEN",
-      "pdf": "pdfs/d0bd47e6ac87.pdf"
+      "pdf": "pdfs/d0bd47e6ac87.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JUN RU CHEN",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2184775",
+          "status": "Awaiting Initial Payment",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "5fd326ae5ebc",
       "policy_id": "LS2188213",
       "owner_name": "SHENG HUANG",
-      "pdf": "pdfs/5fd326ae5ebc.pdf"
+      "pdf": "pdfs/5fd326ae5ebc.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SHENG HUANG",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2188213",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2025-12-15",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "LI L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "f069cb643954",
       "policy_id": "LS2190087",
-      "owner_name": "WENLONG",
-      "pdf": "pdfs/f069cb643954.pdf"
+      "owner_name": "WENLONG ZHAO",
+      "pdf": "pdfs/f069cb643954.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WENLONG ZHAO",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2190087",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-16",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "35672d864a0c",
       "policy_id": "LS2190833",
       "owner_name": "TIANYOU HU",
-      "pdf": "pdfs/35672d864a0c.pdf"
+      "pdf": "pdfs/35672d864a0c.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "TIANYOU HU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2190833",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2025-12-16",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "WEN H***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "c47e5c27410e",
       "policy_id": "LS2190977",
-      "owner_name": "TIANYI EASON",
-      "pdf": "pdfs/c47e5c27410e.pdf"
+      "owner_name": "TIANYI EASON HU",
+      "pdf": "pdfs/c47e5c27410e.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "TIANYI EASON HU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2190977",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2025-12-17",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "FENG H***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "861ae2d7ae1f",
       "policy_id": "LS2191821",
       "owner_name": "YOUXIN DING",
-      "pdf": "pdfs/861ae2d7ae1f.pdf"
+      "pdf": "pdfs/861ae2d7ae1f.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YOUXIN DING",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2191821",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-20",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "83746fe5e14d",
       "policy_id": "LS2191894",
       "owner_name": "SHANQI DING",
-      "pdf": "pdfs/83746fe5e14d.pdf"
+      "pdf": "pdfs/83746fe5e14d.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SHANQI DING",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2191894",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-16",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "YANXIN D***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d7a76b246060",
       "policy_id": "LS2191933",
       "owner_name": "HUI TANG",
-      "pdf": "pdfs/d7a76b246060.pdf"
+      "pdf": "pdfs/d7a76b246060.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HUI TANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2191933",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-18",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "RICHIE Z***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "5175181b2dab",
       "policy_id": "LS2192721",
       "owner_name": "JAMES POTTER",
-      "pdf": "pdfs/5175181b2dab.pdf"
+      "pdf": "pdfs/5175181b2dab.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JAMES POTTER",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2192721",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-06",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "1e7b820e1780",
       "policy_id": "LS2193518",
       "owner_name": "MAOXINGZE LI",
-      "pdf": "pdfs/1e7b820e1780.pdf"
+      "pdf": "pdfs/1e7b820e1780.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "MAOXINGZE LI",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2193518",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2025-12-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "b4b0bc44b418",
       "policy_id": "LS2197450",
       "owner_name": "XIANGDI YU",
-      "pdf": "pdfs/b4b0bc44b418.pdf"
+      "pdf": "pdfs/b4b0bc44b418.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIANGDI YU",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2197450",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-07",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "18917d787e32",
       "policy_id": "LS2198040",
       "owner_name": "QING LI",
-      "pdf": "pdfs/18917d787e32.pdf"
+      "pdf": "pdfs/18917d787e32.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "QING LI",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2198040",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-27",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "e56fe4a8d372",
       "policy_id": "LS2198072",
       "owner_name": "MAOXINYI LI",
-      "pdf": "pdfs/e56fe4a8d372.pdf"
+      "pdf": "pdfs/e56fe4a8d372.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "MAOXINYI LI",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2198072",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-21",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "5418547d08ea",
       "policy_id": "LS2198081",
       "owner_name": "ELIE TONG",
-      "pdf": "pdfs/5418547d08ea.pdf"
+      "pdf": "pdfs/5418547d08ea.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ELIE TONG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2198081",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-07",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "abdf2aea081e",
       "policy_id": "LS2198103",
-      "owner_name": "WENZONG",
-      "pdf": "pdfs/abdf2aea081e.pdf"
+      "owner_name": "WENZONG TANG",
+      "pdf": "pdfs/abdf2aea081e.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WENZONG TANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2198103",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-08",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "65002fc162e3",
       "policy_id": "LS2198658",
       "owner_name": "JASPER HE",
-      "pdf": "pdfs/65002fc162e3.pdf"
+      "pdf": "pdfs/65002fc162e3.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JASPER HE",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2198658",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-08",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "5b51fea65c9e",
       "policy_id": "LS2201145",
       "owner_name": "XIYU ZHANG",
-      "pdf": "pdfs/5b51fea65c9e.pdf"
+      "pdf": "pdfs/5b51fea65c9e.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIYU ZHANG",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201145",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2025-12-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "94b7a99a8d8b",
       "policy_id": "LS2201212",
       "owner_name": "DANHUI WANG",
-      "pdf": "pdfs/94b7a99a8d8b.pdf"
+      "pdf": "pdfs/94b7a99a8d8b.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "DANHUI WANG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201212",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-02",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "1a059cf85a46",
       "policy_id": "LS2201262",
       "owner_name": "ANZHI PENG",
-      "pdf": "pdfs/1a059cf85a46.pdf"
+      "pdf": "pdfs/1a059cf85a46.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ANZHI PENG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201262",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-05",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "4f2f4e51c435",
       "policy_id": "LS2201283",
       "owner_name": "ZHIGUO PENG",
-      "pdf": "pdfs/4f2f4e51c435.pdf"
+      "pdf": "pdfs/4f2f4e51c435.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ZHIGUO PENG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201283",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-05",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "49d2f1aea970",
       "policy_id": "LS2201502",
       "owner_name": "MAGGIE ZHEN",
-      "pdf": "pdfs/49d2f1aea970.pdf"
+      "pdf": "pdfs/49d2f1aea970.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "MAGGIE ZHEN",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201502",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-07",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "ac2d53222222",
       "policy_id": "LS2201509",
       "owner_name": "KERRY ZHEN",
-      "pdf": "pdfs/ac2d53222222.pdf"
+      "pdf": "pdfs/ac2d53222222.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "KERRY ZHEN",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201509",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-07",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "3fbe97af40ef",
       "policy_id": "LS2201526",
       "owner_name": "MICHELLE ZHEN",
-      "pdf": "pdfs/3fbe97af40ef.pdf"
+      "pdf": "pdfs/3fbe97af40ef.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "MICHELLE ZHEN",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201526",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-07",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "3cb2a86bfc33",
       "policy_id": "LS2201535",
       "owner_name": "CAN ZHENG",
-      "pdf": "pdfs/3cb2a86bfc33.pdf"
+      "pdf": "pdfs/3cb2a86bfc33.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "CAN ZHENG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2201535",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-01",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "02ef83315de7",
       "policy_id": "LS2220890",
       "owner_name": "JASPER SIBO JIA",
-      "pdf": "pdfs/02ef83315de7.pdf"
+      "pdf": "pdfs/02ef83315de7.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JASPER SIBO JIA",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2220890",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-27",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "4da630814588",
       "policy_id": "LS2222805",
-      "owner_name": "GUANZHOU",
-      "pdf": "pdfs/4da630814588.pdf"
+      "owner_name": "GUANZHOU ZHENG",
+      "pdf": "pdfs/4da630814588.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "GUANZHOU ZHENG",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2222805",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "fa72272f2553",
       "policy_id": "LS2223104",
-      "owner_name": "GUANZHOU",
-      "pdf": "pdfs/fa72272f2553.pdf"
+      "owner_name": "GUANZHOU ZHENG",
+      "pdf": "pdfs/fa72272f2553.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "GUANZHOU ZHENG",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2223104",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-02-01",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "0c9aa994a272",
       "policy_id": "LS2223682",
       "owner_name": "WANGQIAO XU",
-      "pdf": "pdfs/0c9aa994a272.pdf"
+      "pdf": "pdfs/0c9aa994a272.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "WANGQIAO XU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2223682",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-01-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "e95df62853b3",
       "policy_id": "LS2227046",
       "owner_name": "AMANDA XIA",
-      "pdf": "pdfs/e95df62853b3.pdf"
+      "pdf": "pdfs/e95df62853b3.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "AMANDA XIA",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2227046",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-02-10",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "a2b7df862e42",
       "policy_id": "LS2227735",
       "owner_name": "YONG ZHI LIN",
-      "pdf": "pdfs/a2b7df862e42.pdf"
+      "pdf": "pdfs/a2b7df862e42.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YONG ZHI LIN",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2227735",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-02-04",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "a22c08e5cce8",
       "policy_id": "LS2228103",
       "owner_name": "RICHIE ZHANG",
-      "pdf": "pdfs/a22c08e5cce8.pdf"
+      "pdf": "pdfs/a22c08e5cce8.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "RICHIE ZHANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2228103",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-10",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "YOUXIN D***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "454031a1a67c",
       "policy_id": "LS2231592",
       "owner_name": "ANZHENG TANG",
-      "pdf": "pdfs/454031a1a67c.pdf"
+      "pdf": "pdfs/454031a1a67c.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ANZHENG TANG",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2231592",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-27",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "YING X***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "ca01551edcb7",
       "policy_id": "LS2233853",
       "owner_name": "JIABEI XIA",
-      "pdf": "pdfs/ca01551edcb7.pdf"
+      "pdf": "pdfs/ca01551edcb7.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIABEI XIA",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2233853",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-02-18",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "6d6e92c14649",
       "policy_id": "LS2236560",
       "owner_name": "YIMING ZHANG",
-      "pdf": "pdfs/6d6e92c14649.pdf"
+      "pdf": "pdfs/6d6e92c14649.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YIMING ZHANG",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2236560",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-09",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "HUI L***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "2c5e3b83b0e2",
       "policy_id": "LS2238011",
       "owner_name": "JIANHUA DUFFY",
-      "pdf": "pdfs/2c5e3b83b0e2.pdf"
+      "pdf": "pdfs/2c5e3b83b0e2.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JIANHUA DUFFY",
+          "age_decade": "60s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2238011",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-02-25",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "ca744a4ea0ea",
       "policy_id": "LS2241328",
       "owner_name": "IVAN MA",
-      "pdf": "pdfs/ca744a4ea0ea.pdf"
+      "pdf": "pdfs/ca744a4ea0ea.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "IVAN MA",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2241328",
+          "status": "Awaiting Initial Payment",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-02-23",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "033bd1862b88",
       "policy_id": "LS2241359",
       "owner_name": "EDWIN MA",
-      "pdf": "pdfs/033bd1862b88.pdf"
+      "pdf": "pdfs/033bd1862b88.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "EDWIN MA",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2241359",
+          "status": "Awaiting Initial Payment",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-06",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "62830c9a92c4",
       "policy_id": "LS2249559",
       "owner_name": "QIRUI WANG",
-      "pdf": "pdfs/62830c9a92c4.pdf"
+      "pdf": "pdfs/62830c9a92c4.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "QIRUI WANG",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2249559",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-01",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "HAIPING G***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "c07ec389c82c",
       "policy_id": "LS2250275",
       "owner_name": "LIXIU LIU",
-      "pdf": "pdfs/c07ec389c82c.pdf"
+      "pdf": "pdfs/c07ec389c82c.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "LIXIU LIU",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2250275",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-09",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "STEVEN P***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "e396ccd990ab",
       "policy_id": "LS2253311",
       "owner_name": "LIANGAI LI",
-      "pdf": "pdfs/e396ccd990ab.pdf"
+      "pdf": "pdfs/e396ccd990ab.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "LIANGAI LI",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2253311",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-20",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "8c18e016ffce",
       "policy_id": "LS2263295",
-      "owner_name": "KOBE S",
-      "pdf": "pdfs/8c18e016ffce.pdf"
+      "owner_name": "KOBE S PHAKHAM",
+      "pdf": "pdfs/8c18e016ffce.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "KOBE S PHAKHAM",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2263295",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-17",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "KHEMPHONE P***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "PHAKHAM SOMMAI SAM",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "0c585fa8128b",
       "policy_id": "LS2264878",
       "owner_name": "SEAN PHAKHAM",
-      "pdf": "pdfs/0c585fa8128b.pdf"
+      "pdf": "pdfs/0c585fa8128b.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SEAN PHAKHAM",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2264878",
+          "status": "Awaiting Initial Payment",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-18",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "PHAKHAM SOMMAI SAM",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "de9190665e9d",
       "policy_id": "LS2268494",
       "owner_name": "YULIN WANG",
-      "pdf": "pdfs/de9190665e9d.pdf"
+      "pdf": "pdfs/de9190665e9d.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YULIN WANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2268494",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-07",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "251207e4f1ad",
       "policy_id": "LS2270821",
       "owner_name": "JOANNA XU",
-      "pdf": "pdfs/251207e4f1ad.pdf"
+      "pdf": "pdfs/251207e4f1ad.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "JOANNA XU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2270821",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-21",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "LEI J***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "13d17bd478a0",
       "policy_id": "LS2270876",
-      "owner_name": "TYAN JOSHUA",
-      "pdf": "pdfs/13d17bd478a0.pdf"
+      "owner_name": "TYAN JOSHUA BAI",
+      "pdf": "pdfs/13d17bd478a0.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "TYAN JOSHUA BAI",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2270876",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-21",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "LEI J***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "02782e57c2da",
       "policy_id": "LS2281544",
       "owner_name": "LI LIU",
-      "pdf": "pdfs/02782e57c2da.pdf"
+      "pdf": "pdfs/02782e57c2da.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "LI LIU",
+          "age_decade": "50s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2281544",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "c2f979c11417",
       "policy_id": "LS2292226",
-      "owner_name": "SHAOXIANG",
-      "pdf": "pdfs/c2f979c11417.pdf"
+      "owner_name": "SHAOXIANG HOU",
+      "pdf": "pdfs/c2f979c11417.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "SHAOXIANG HOU",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2292226",
+          "status": "Awaiting Initial Payment",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": null,
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "YAN DAIJIA",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "42ad0f973952",
       "policy_id": "LS2294647",
       "owner_name": "YIXIAN ZANG",
-      "pdf": "pdfs/42ad0f973952.pdf"
+      "pdf": "pdfs/42ad0f973952.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "YIXIAN ZANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2294647",
+          "status": "Awaiting Initial Payment",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": null,
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "d016fafb5376",
       "policy_id": "LS2294753",
       "owner_name": "ERIC ZANG",
-      "pdf": "pdfs/d016fafb5376.pdf"
+      "pdf": "pdfs/d016fafb5376.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ERIC ZANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2294753",
+          "status": "Awaiting Initial Payment",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": null,
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "cd32fa624470",
       "policy_id": "LS2294790",
       "owner_name": "ANGELA ZANG",
-      "pdf": "pdfs/cd32fa624470.pdf"
+      "pdf": "pdfs/cd32fa624470.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ANGELA ZANG",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2294790",
+          "status": "Awaiting Initial Payment",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": null,
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "78075cbf5067",
       "policy_id": "LS2296564",
       "owner_name": "ZIMU LIU",
-      "pdf": "pdfs/78075cbf5067.pdf"
+      "pdf": "pdfs/78075cbf5067.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "ZIMU LIU",
+          "age_decade": "20s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2296564",
+          "status": "Inforce",
+          "product": "SummitLife",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-24",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "4f507cfbc0b1",
       "policy_id": "LS2299265",
       "owner_name": "HONGSHAN LI",
-      "pdf": "pdfs/4f507cfbc0b1.pdf"
+      "pdf": "pdfs/4f507cfbc0b1.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "HONGSHAN LI",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2299265",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-05-01",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "810ceb18f749",
       "policy_id": "LS2300682",
-      "owner_name": "DONGHONG",
-      "pdf": "pdfs/810ceb18f749.pdf"
+      "owner_name": "DONGHONG FAN",
+      "pdf": "pdfs/810ceb18f749.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "DONGHONG FAN",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2300682",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-28",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "6cd9f3e2e1d1",
       "policy_id": "LS2301180",
       "owner_name": "RYAN PIAO",
-      "pdf": "pdfs/6cd9f3e2e1d1.pdf"
+      "pdf": "pdfs/6cd9f3e2e1d1.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "RYAN PIAO",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "LS2301180",
+          "status": "Inforce",
+          "product": "FlexLife 2025",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-25",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "c652b3b14fe8",
       "policy_id": "NL2834711",
       "owner_name": "XIAN LI",
-      "pdf": "pdfs/c652b3b14fe8.pdf"
+      "pdf": "pdfs/c652b3b14fe8.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "XIAN LI",
+          "age_decade": "30s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "NL2834711",
+          "status": "Inforce",
+          "product": "FlexLife NL 2019",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-04-08",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Annual"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "(详见正式申请书)",
+            "relationship": ""
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     },
     {
       "token": "2ce4a475a156",
       "policy_id": "NL2835413",
       "owner_name": "GANG LI",
-      "pdf": "pdfs/2ce4a475a156.pdf"
+      "pdf": "pdfs/2ce4a475a156.pdf",
+      "snapshot": {
+        "as_of": "2026-05-18",
+        "insured": {
+          "name": "GANG LI",
+          "age_decade": "40s",
+          "city_state": ""
+        },
+        "policy": {
+          "number": "NL2835413",
+          "status": "Inforce",
+          "product": "FlexLife NL 2019",
+          "type": "Indexed Universal Life",
+          "face_amount": null,
+          "effective_date": "2026-03-24",
+          "convertible_through": null,
+          "paid_to_date": null,
+          "next_premium_due": null,
+          "premium_frequency": "Monthly"
+        },
+        "alerts": [],
+        "beneficiaries_display": [
+          {
+            "display": "YANG G***",
+            "relationship": "(请咨询顾问)"
+          }
+        ],
+        "agent": {
+          "name": "GUO BEIYING",
+          "agency": "HENGSHENG GROUP INC 7XA",
+          "contact_hint": "请通过您的恒盛微信顾问联系"
+        }
+      }
     }
   ]
 }

@@ -5,157 +5,318 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>恒盛集团 — 客户全息方案</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
-      background: #f5f7fa;
+      background: linear-gradient(180deg, #f8fafc 0%, #eef2f7 100%);
       color: #1f2937;
       min-height: 100vh;
-      display: flex;
-      flex-direction: column;
+      padding-bottom: 60px;
     }
     header {
       background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
       color: #fff;
       padding: 20px 24px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 8px rgba(30,58,138,0.18);
     }
     header h1 {
-      font-size: 18px;
+      font-size: 17px;
       font-weight: 600;
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
     }
     header .badge {
       font-size: 11px;
-      background: rgba(255,255,255,0.18);
-      padding: 3px 8px;
-      border-radius: 4px;
+      background: rgba(255,255,255,0.22);
+      padding: 3px 9px;
+      border-radius: 10px;
+      font-weight: 500;
     }
-    #content {
-      flex: 1;
-      display: flex;
-      align-items: stretch;
-      justify-content: center;
-      padding: 16px;
+    header .subtitle {
+      font-size: 12px;
+      opacity: 0.85;
+      margin-top: 6px;
     }
-    .panel {
+    .container { max-width: 720px; margin: 0 auto; padding: 16px; }
+
+    .hero {
       background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-      padding: 32px;
-      text-align: center;
-      max-width: 480px;
-      width: 100%;
-      margin: auto;
+      border-radius: 14px;
+      padding: 22px 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      margin-bottom: 14px;
     }
-    .panel h2 {
-      font-size: 20px;
-      margin-bottom: 12px;
-      color: #1e3a8a;
-    }
-    .panel p { color: #6b7280; line-height: 1.6; }
-    .panel.error h2 { color: #dc2626; }
-    .panel input {
-      width: 100%;
+    .hero .greeting { color: #6b7280; font-size: 13px; margin-bottom: 6px; }
+    .hero .name { font-size: 22px; font-weight: 600; color: #111827; margin-bottom: 4px; }
+    .hero .policy-id { color: #4b5563; font-size: 13px; font-family: ui-monospace, monospace; }
+
+    .alerts { margin-bottom: 14px; }
+    .alert {
       padding: 12px 14px;
-      font-size: 16px;
-      border: 1px solid #e5e7eb;
-      border-radius: 6px;
-      margin: 16px 0 8px;
-      outline: none;
+      border-radius: 10px;
+      margin-bottom: 8px;
+      font-size: 14px;
     }
-    .panel input:focus { border-color: #2563eb; }
-    .panel button {
-      width: 100%;
-      padding: 12px;
-      background: #2563eb;
-      color: #fff;
-      border: none;
-      border-radius: 6px;
-      font-size: 16px;
+    .alert-high { background: #fef2f2; color: #991b1b; border-left: 3px solid #dc2626; }
+    .alert-medium { background: #fffbeb; color: #92400e; border-left: 3px solid #f59e0b; }
+    .alert-low { background: #ecfeff; color: #155e75; border-left: 3px solid #06b6d4; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .card h3 {
+      font-size: 12px;
+      font-weight: 600;
+      color: #6b7280;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 12px;
+    }
+    .card .row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 6px 0;
+      font-size: 14px;
+      border-bottom: 1px dashed #f3f4f6;
+    }
+    .card .row:last-child { border-bottom: none; }
+    .card .label { color: #6b7280; font-size: 13px; }
+    .card .value { font-weight: 500; color: #111827; }
+    .card .value.big { font-size: 17px; color: #1e40af; }
+    .card .value.status-inforce { color: #059669; }
+    .card .value.status-awaiting { color: #d97706; }
+    .card .value.status-issued { color: #6b7280; }
+
+    .countdown { display: inline-flex; align-items: baseline; gap: 3px; }
+    .countdown-num { font-size: 18px; font-weight: 600; color: #1e40af; }
+    .countdown-unit { font-size: 12px; color: #6b7280; }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 16px;
+    }
+    .btn {
+      flex: 1;
+      min-width: 140px;
+      padding: 12px 18px;
+      border-radius: 10px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 14px;
       font-weight: 500;
       cursor: pointer;
-      margin-top: 8px;
-    }
-    .panel button:hover { background: #1d4ed8; }
-    #pdf-viewer {
-      width: 100%;
-      height: calc(100vh - 80px);
       border: none;
     }
-    footer {
-      text-align: center;
-      padding: 12px;
-      font-size: 12px;
-      color: #9ca3af;
+    .btn-primary { background: #2563eb; color: #fff; }
+    .btn-primary:active { background: #1e40af; }
+
+    .agent-card {
+      background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 14px;
+      display: flex;
+      gap: 14px;
+      align-items: center;
+    }
+    .agent-avatar {
+      width: 44px; height: 44px;
+      border-radius: 50%;
+      background: #2563eb;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+    .agent-info .label { font-size: 12px; color: #0369a1; }
+    .agent-info .name { font-size: 16px; font-weight: 600; color: #075985; margin-top: 2px; }
+    .agent-info .hint { font-size: 12px; color: #0369a1; margin-top: 2px; }
+
+    .error-panel {
       background: #fff;
-      border-top: 1px solid #e5e7eb;
+      border-radius: 14px;
+      padding: 32px 24px;
+      text-align: center;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+    }
+    .error-panel h2 { color: #991b1b; font-size: 18px; margin-bottom: 10px; }
+    .error-panel p { color: #6b7280; font-size: 14px; line-height: 1.6; }
+    .error-panel code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; font-size: 12px; }
+
+    .footer {
+      text-align: center;
+      padding: 18px 16px;
+      font-size: 11px;
+      color: #9ca3af;
+      line-height: 1.6;
+    }
+    .footer .privacy { font-size: 11px; color: #d1d5db; margin-top: 4px; }
+
+    @media (max-width: 480px) {
+      header { padding: 16px 18px; }
+      header h1 { font-size: 15px; }
+      .container { padding: 12px; }
+      .hero { padding: 18px 16px; }
+      .card { padding: 16px; }
     }
   </style>
 </head>
 <body>
   <header>
     <h1>📋 恒盛集团 · 客户全息方案 <span class="badge">Private</span></h1>
+    <div class="subtitle" id="updated-at">数据动态更新</div>
   </header>
 
-  <div id="content">
-    <!-- 默认显示 loading,JS 替换 -->
-    <div class="panel">
-      <h2>加载中...</h2>
-      <p>正在验证您的访问凭证</p>
-    </div>
+  <div class="container" id="content">
+    <div class="error-panel"><h2>加载中…</h2></div>
   </div>
 
-  <footer>
-    本方案由恒盛集团 AI Coach 自动生成 · 数据随保单状态动态更新
-  </footer>
+  <div class="footer">
+    本方案由恒盛集团 AI Coach 自动生成 · 数据每日刷新
+    <div class="privacy">出于您的隐私保护, 部分敏感字段已脱敏。如需完整资料请联系顾问。</div>
+  </div>
 
   <script>
+    function fmtDate(iso) {
+      if (!iso) return '—';
+      const d = new Date(iso + 'T00:00:00');
+      return d.getFullYear() + '/' + String(d.getMonth()+1).padStart(2,'0') + '/' + String(d.getDate()).padStart(2,'0');
+    }
+    function daysUntil(iso) {
+      if (!iso) return null;
+      const d = new Date(iso + 'T00:00:00');
+      const now = new Date(); now.setHours(0,0,0,0);
+      return Math.floor((d - now) / 86400000);
+    }
+    function statusClass(s) {
+      if (!s) return '';
+      const ss = s.toLowerCase();
+      if (ss.includes('inforce')) return 'status-inforce';
+      if (ss.includes('awaiting')) return 'status-awaiting';
+      if (ss.includes('issued')) return 'status-issued';
+      return '';
+    }
+    function showError(title, msg) {
+      document.getElementById('content').innerHTML =
+        '<div class="error-panel"><h2>' + title + '</h2><p>' + msg + '</p></div>';
+    }
+
+    function render(c) {
+      const s = c.snapshot || {};
+      const ins = s.insured || {};
+      const pol = s.policy || {};
+      const ag = s.agent || {};
+      const bens = s.beneficiaries_display || [];
+      const alerts = s.alerts || [];
+
+      const convDays = daysUntil(pol.convertible_through);
+      const nextDueDays = daysUntil(pol.next_premium_due);
+      const annivDays = (() => {
+        if (!pol.effective_date) return null;
+        const eff = new Date(pol.effective_date + 'T00:00:00');
+        const now = new Date(); now.setHours(0,0,0,0);
+        const thisYear = new Date(now.getFullYear(), eff.getMonth(), eff.getDate());
+        const target = thisYear < now
+          ? new Date(now.getFullYear()+1, eff.getMonth(), eff.getDate())
+          : thisYear;
+        return Math.floor((target - now) / 86400000);
+      })();
+
+      const alertHtml = alerts.length
+        ? '<div class="alerts">' + alerts.map(a =>
+            '<div class="alert alert-' + a.severity + '">' + a.msg + '</div>'
+          ).join('') + '</div>'
+        : '';
+
+      const beneHtml = bens.length
+        ? bens.map(b =>
+            '<div class="row"><span class="label">' + (b.relationship || '受益人') + '</span><span class="value">' + b.display + '</span></div>'
+          ).join('')
+        : '<div class="row"><span class="label">详见正式申请书</span></div>';
+
+      const html = [
+        '<div class="hero">',
+        '  <div class="greeting">您好,</div>',
+        '  <div class="name">' + c.owner_name + '</div>',
+        '  <div class="policy-id">保单号 ' + (pol.number || c.policy_id) + '  ·  ' + (ins.city_state || '') + '  ·  数据截至 ' + s.as_of + '</div>',
+        '</div>',
+        alertHtml,
+        '<div class="grid">',
+        '  <div class="card">',
+        '    <h3>📌 保单状态</h3>',
+        '    <div class="row"><span class="label">状态</span><span class="value big ' + statusClass(pol.status) + '">' + (pol.status || '—') + '</span></div>',
+        '    <div class="row"><span class="label">产品</span><span class="value">' + (pol.product || '—') + '</span></div>',
+        '    <div class="row"><span class="label">类型</span><span class="value">' + (pol.type || '—') + '</span></div>',
+        '    <div class="row"><span class="label">保额</span><span class="value">' + (pol.face_amount || '—') + '</span></div>',
+        '  </div>',
+        '  <div class="card">',
+        '    <h3>💳 缴费</h3>',
+        '    <div class="row"><span class="label">缴费频率</span><span class="value">' + (pol.premium_frequency || '—') + '</span></div>',
+        '    <div class="row"><span class="label">已缴至</span><span class="value">' + fmtDate(pol.paid_to_date) + '</span></div>',
+        '    <div class="row"><span class="label">下次扣款</span><span class="value">' + fmtDate(pol.next_premium_due) + (nextDueDays !== null ? ' <span style="color:#6b7280;font-size:12px;">(' + (nextDueDays>=0?'还有':'已过') + ' ' + Math.abs(nextDueDays) + ' 天)</span>' : '') + '</span></div>',
+        '  </div>',
+        '  <div class="card">',
+        '    <h3>⏳ 关键日期</h3>',
+        '    <div class="row"><span class="label">生效日期</span><span class="value">' + fmtDate(pol.effective_date) + '</span></div>',
+        '    <div class="row"><span class="label">下次周年</span><span class="value">' + (annivDays !== null ? '<span class="countdown"><span class="countdown-num">' + annivDays + '</span><span class="countdown-unit">天</span></span>' : '—') + '</span></div>',
+        '    <div class="row"><span class="label">Convertible 到期</span><span class="value">' + (convDays !== null && convDays > 0 ? '<span class="countdown"><span class="countdown-num">' + convDays + '</span><span class="countdown-unit">天</span></span>' : (pol.convertible_through ? fmtDate(pol.convertible_through) : '—')) + '</span></div>',
+        '  </div>',
+        '  <div class="card">',
+        '    <h3>👨‍👩‍👧 受益人</h3>',
+        beneHtml,
+        '  </div>',
+        '</div>',
+        '<div class="agent-card">',
+        '  <div class="agent-avatar">' + (ag.name || '?').charAt(0) + '</div>',
+        '  <div class="agent-info">',
+        '    <div class="label">您的专属顾问</div>',
+        '    <div class="name">' + (ag.name || '—') + '</div>',
+        '    <div class="hint">' + (ag.contact_hint || '请通过您的恒盛微信顾问联系') + '</div>',
+        '  </div>',
+        '</div>',
+        '<div class="actions">',
+        '  <a href="' + c.pdf + '" class="btn btn-primary" download>📄 下载完整全息方案 PDF</a>',
+        '</div>'
+      ].join('\n');
+      document.getElementById('content').innerHTML = html;
+    }
+
     (async function() {
-      const params = new URLSearchParams(location.search);
-      const token = params.get('token');
-      const content = document.getElementById('content');
-
-      function showError(title, msg) {
-        content.innerHTML = `
-          <div class="panel error">
-            <h2>${title}</h2>
-            <p>${msg}</p>
-            <p style="margin-top: 16px; font-size: 13px;">
-              如有疑问请联系您的恒盛顾问
-            </p>
-          </div>`;
-      }
-
-      function showPdf(pdfUrl, owner) {
-        // 替换整页为 PDF iframe
-        document.body.innerHTML = `
-          <header style="background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%); color: #fff; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center;">
-            <span style="font-size: 14px; font-weight: 500;">📋 恒盛集团 · ${owner} 的全息方案</span>
-            <a href="${pdfUrl}" download style="color: #fff; text-decoration: none; font-size: 12px; background: rgba(255,255,255,0.18); padding: 4px 10px; border-radius: 4px;">下载 PDF</a>
-          </header>
-          <iframe id="pdf-viewer" src="${pdfUrl}#zoom=fit"></iframe>`;
-      }
-
+      const token = new URLSearchParams(location.search).get('token');
       if (!token) {
-        showError('需要访问令牌', '请通过您的恒盛顾问发给您的专属链接打开此页面。链接形如:<br><code style="background:#f3f4f6;padding:2px 6px;border-radius:3px;">?token=XXXXXXXXXXXX</code>');
+        showError('需要访问令牌', '请通过您的恒盛顾问发给您的专属链接打开此页面。链接形如:<br><code>?token=XXXXXXXXXXXX</code>');
         return;
       }
-
       try {
-        const resp = await fetch('manifest.json?t=' + Date.now(), { cache: 'no-store' });
-        if (!resp.ok) throw new Error('manifest 加载失败');
-        const data = await resp.json();
-        const match = data.clients.find(c => c.token === token);
-        if (!match) {
-          showError('令牌无效', '此链接可能已过期或被撤销。请联系顾问获取新链接。');
+        const res = await fetch('manifest.json?v=' + Date.now());
+        if (!res.ok) throw new Error('manifest 加载失败');
+        const m = await res.json();
+        const client = m.clients.find(c => c.token === token);
+        if (!client) {
+          showError('链接无效', '未找到匹配的客户档案。请与您的顾问确认链接是否正确。');
           return;
         }
-        showPdf(match.pdf, match.owner_name);
-      } catch (err) {
-        showError('加载失败', err.message);
+        document.getElementById('updated-at').textContent = '数据更新于 ' + m.generated_at.slice(0,16).replace('T',' ');
+        document.title = client.owner_name + ' - 恒盛集团全息方案';
+        render(client);
+      } catch (e) {
+        showError('加载失败', '请稍后重试或联系您的顾问。<br><code>' + (e.message || e) + '</code>');
       }
     })();
   </script>
