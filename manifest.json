@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-18T02:02:17",
+  "generated_at": "2026-05-18T02:21:19",
   "salt_hash": "ee77eec6",
   "count": 114,
   "clients": [
@@ -239,8 +239,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "HUAIDE Z***",
-            "relationship": "(请咨询顾问)"
+            "display": "H. Z.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -321,8 +321,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "FENG H***",
-            "relationship": "(请咨询顾问)"
+            "display": "F. H.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -365,8 +365,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "WEN H***",
-            "relationship": "(请咨询顾问)"
+            "display": "W. H.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -541,8 +541,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "WAI L***",
-            "relationship": "(请咨询顾问)"
+            "display": "W. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -667,8 +667,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "CAROLINE C***",
-            "relationship": "(请咨询顾问)"
+            "display": "C. C.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -711,8 +711,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "GUANZHOU Z***",
-            "relationship": "(请咨询顾问)"
+            "display": "G. Z.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -749,8 +749,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "QING M***",
-            "relationship": "(请咨询顾问)"
+            "display": "Q. M.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -831,8 +831,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "NAIQI L***",
-            "relationship": "(请咨询顾问)"
+            "display": "N. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -957,8 +957,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "YIN-SHUAN H***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. H.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -1089,8 +1089,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "YIRAN M***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. M.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -1215,8 +1215,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "JINGYI B***",
-            "relationship": "(请咨询顾问)"
+            "display": "J. B.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -1581,8 +1581,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "DAVID L***",
-            "relationship": "(请咨询顾问)"
+            "display": "D. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -1625,8 +1625,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "YING C***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. C.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -1669,8 +1669,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "XIAOLI L***",
-            "relationship": "(请咨询顾问)"
+            "display": "X. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -1713,8 +1713,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "JESSIE L***",
-            "relationship": "(请咨询顾问)"
+            "display": "J. L.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -1757,8 +1757,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "JESSIE L***",
-            "relationship": "(请咨询顾问)"
+            "display": "J. L.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -1915,8 +1915,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "SONGFENG L***",
-            "relationship": "(请咨询顾问)"
+            "display": "S. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -2199,8 +2199,8 @@
         ],
         "beneficiaries_display": [
           {
-            "display": "KAIQI C***",
-            "relationship": "(请咨询顾问)"
+            "display": "K. C.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -2369,8 +2369,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "LIQUN M***",
-            "relationship": "(请咨询顾问)"
+            "display": "L. M.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -2483,8 +2483,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "LI L***",
-            "relationship": "(请咨询顾问)"
+            "display": "L. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -2559,8 +2559,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "WEN H***",
-            "relationship": "(请咨询顾问)"
+            "display": "W. H.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -2597,8 +2597,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "FENG H***",
-            "relationship": "(请咨询顾问)"
+            "display": "F. H.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -2673,8 +2673,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "YANXIN D***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. D.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -2711,8 +2711,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "RICHIE Z***",
-            "relationship": "(请咨询顾问)"
+            "display": "R. Z.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -3585,8 +3585,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "YOUXIN D***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. D.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -3623,8 +3623,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "YING X***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. X.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -3699,8 +3699,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "HUI L***",
-            "relationship": "(请咨询顾问)"
+            "display": "H. L.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -3851,8 +3851,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "HAIPING G***",
-            "relationship": "(请咨询顾问)"
+            "display": "H. G.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -3889,8 +3889,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "STEVEN P***",
-            "relationship": "(请咨询顾问)"
+            "display": "S. P.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -3965,8 +3965,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "KHEMPHONE P***",
-            "relationship": "(请咨询顾问)"
+            "display": "K. P.",
+            "relationship": "家人"
           }
         ],
         "agent": {
@@ -4079,8 +4079,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "LEI J***",
-            "relationship": "(请咨询顾问)"
+            "display": "L. J.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -4117,8 +4117,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "LEI J***",
-            "relationship": "(请咨询顾问)"
+            "display": "L. J.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
@@ -4535,8 +4535,8 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "display": "YANG G***",
-            "relationship": "(请咨询顾问)"
+            "display": "Y. G.",
+            "relationship": "受益人"
           }
         ],
         "agent": {
