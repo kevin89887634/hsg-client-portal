@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-18T02:40:34",
+  "generated_at": "2026-05-18T06:00:59",
   "salt_hash": "ee77eec6",
   "count": 114,
   "clients": [
@@ -35,7 +35,18 @@
             "msg": "📅 还有 3 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [],
+        "beneficiaries_display": [
+          {
+            "name": "Xiany Liu",
+            "relationship": "子女",
+            "source": "nlg-portal"
+          },
+          {
+            "name": "Ding Liu",
+            "relationship": "配偶",
+            "source": "nlg-portal"
+          }
+        ],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -74,7 +85,18 @@
             "msg": "📅 还有 4 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [],
+        "beneficiaries_display": [
+          {
+            "name": "YOO MEI TANG",
+            "relationship": "配偶",
+            "source": "nlg-portal"
+          },
+          {
+            "name": "XIANG LIU",
+            "relationship": "子女",
+            "source": "nlg-portal"
+          }
+        ],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
