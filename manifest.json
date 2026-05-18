@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-18T02:29:23",
+  "generated_at": "2026-05-18T02:40:34",
   "salt_hash": "ee77eec6",
   "count": 114,
   "clients": [
@@ -35,12 +35,7 @@
             "msg": "📅 还有 3 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -79,12 +74,7 @@
             "msg": "📅 还有 4 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -123,12 +113,7 @@
             "msg": "📅 还有 5 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -161,12 +146,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -199,12 +179,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -239,7 +214,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "HUAIDE ZHAO"
+            "name": "HUAIDE ZHAO",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -274,12 +251,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -320,7 +292,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "FENG HU"
+            "name": "FENG HU",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -363,7 +337,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "WEN HE"
+            "name": "WEN HE",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -404,12 +380,7 @@
             "msg": "📅 还有 7 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -448,12 +419,7 @@
             "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -492,12 +458,7 @@
             "msg": "📅 还有 3 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -538,7 +499,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "WAI LEE"
+            "name": "WAI LEE",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -579,12 +542,7 @@
             "msg": "📅 还有 3 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -623,12 +581,7 @@
             "msg": "📅 还有 3 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -663,7 +616,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "CAROLINE CHEN"
+            "name": "CAROLINE CHEN",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -706,7 +661,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "GUANZHOU ZHENG"
+            "name": "GUANZHOU ZHENG",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -743,7 +700,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "QING MIAO"
+            "name": "QING MIAO",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -784,12 +743,7 @@
             "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -824,7 +778,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "NAIQI LI"
+            "name": "NAIQI LI",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -865,12 +821,7 @@
             "msg": "📅 还有 0 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -909,12 +860,7 @@
             "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -949,7 +895,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "YIN-SHUAN HSU"
+            "name": "YIN-SHUAN HSU",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -990,12 +938,7 @@
             "msg": "⚠️ 月付逾期 8 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1034,12 +977,7 @@
             "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1080,7 +1018,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "YIRAN MA"
+            "name": "YIRAN MA",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1121,12 +1061,7 @@
             "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1159,12 +1094,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1205,7 +1135,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "JINGYI BAI"
+            "name": "JINGYI BAI",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1240,12 +1172,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1284,12 +1211,7 @@
             "msg": "💡 上次付款已过 1 天, 请确认"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1328,12 +1250,7 @@
             "msg": "⚠️ 月付逾期 7 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1366,12 +1283,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1404,12 +1316,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1442,12 +1349,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1486,12 +1388,7 @@
             "msg": "📅 还有 6 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1524,12 +1421,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1570,7 +1462,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "DAVID LI"
+            "name": "DAVID LI",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1613,7 +1507,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "YING CAI"
+            "name": "YING CAI",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1656,7 +1552,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "XIAOLI LI"
+            "name": "XIAOLI LI",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1699,7 +1597,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "JESSIE LIU"
+            "name": "JESSIE LIU",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1742,7 +1642,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "JESSIE LIU"
+            "name": "JESSIE LIU",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1783,12 +1685,7 @@
             "msg": "⚠️ 月付逾期 29 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1821,12 +1718,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1859,12 +1751,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1899,7 +1786,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "SONGFENG LI"
+            "name": "SONGFENG LI",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -1934,12 +1823,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -1978,12 +1862,7 @@
             "msg": "⚠️ 月付逾期 10 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2016,12 +1895,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2054,12 +1928,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2092,12 +1961,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2136,12 +2000,7 @@
             "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2182,7 +2041,9 @@
         ],
         "beneficiaries_display": [
           {
-            "name": "KAIQI CHENG"
+            "name": "KAIQI CHENG",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2223,12 +2084,7 @@
             "msg": "📅 还有 4 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2267,12 +2123,7 @@
             "msg": "⚠️ 月付逾期 20 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2311,12 +2162,7 @@
             "msg": "⚠️ 月付逾期 17 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2351,7 +2197,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "LIQUN MAO"
+            "name": "LIQUN MAO",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2386,12 +2234,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2424,12 +2267,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2464,7 +2302,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "LI LIU"
+            "name": "LI LIU",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2499,12 +2339,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2539,7 +2374,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "WEN HE"
+            "name": "WEN HE",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2576,7 +2413,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "FENG HU"
+            "name": "FENG HU",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2611,12 +2450,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2651,7 +2485,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "YANXIN DING"
+            "name": "YANXIN DING",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2688,7 +2524,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "RICHIE ZHANG"
+            "name": "RICHIE ZHANG",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -2723,12 +2561,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2761,12 +2594,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2799,12 +2627,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2837,12 +2660,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2875,12 +2693,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2913,12 +2726,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2951,12 +2759,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -2989,12 +2792,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3027,12 +2825,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3065,12 +2858,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3103,12 +2891,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3141,12 +2924,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3179,12 +2957,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3217,12 +2990,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3255,12 +3023,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3293,12 +3056,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3331,12 +3089,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3369,12 +3122,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3407,12 +3155,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3445,12 +3188,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3483,12 +3221,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3521,12 +3254,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3561,7 +3289,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "YOUXIN DING"
+            "name": "YOUXIN DING",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -3598,7 +3328,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "YING XU"
+            "name": "YING XU",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -3633,12 +3365,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3673,7 +3400,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "HUI LIU"
+            "name": "HUI LIU",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -3708,12 +3437,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3746,12 +3470,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3784,12 +3503,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3824,7 +3538,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "HAIPING GONG"
+            "name": "HAIPING GONG",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -3861,7 +3577,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "STEVEN PHAM"
+            "name": "STEVEN PHAM",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -3896,12 +3614,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -3936,7 +3649,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "KHEMPHONE PHAKHAM"
+            "name": "KHEMPHONE PHAKHAM",
+            "relationship": "家人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -3971,12 +3686,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "PHAKHAM SOMMAI SAM",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4009,12 +3719,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4049,7 +3754,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "LEI JIN"
+            "name": "LEI JIN",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -4086,7 +3793,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "LEI JIN"
+            "name": "LEI JIN",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
@@ -4121,12 +3830,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4159,12 +3863,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "YAN DAIJIA",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4197,12 +3896,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4235,12 +3929,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4273,12 +3962,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4311,12 +3995,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4349,12 +4028,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4387,12 +4061,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4425,12 +4094,7 @@
           "premium_frequency": "Monthly"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4463,12 +4127,7 @@
           "premium_frequency": "Annual"
         },
         "alerts": [],
-        "beneficiaries_display": [
-          {
-            "display": "(详见正式申请书)",
-            "relationship": ""
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -4503,7 +4162,9 @@
         "alerts": [],
         "beneficiaries_display": [
           {
-            "name": "YANG GUO"
+            "name": "YANG GUO",
+            "relationship": "受益人",
+            "source": "nlg-portal"
           }
         ],
         "agent": {
