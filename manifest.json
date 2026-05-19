@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-19T06:00:38",
+  "generated_at": "2026-05-19T09:08:44",
   "salt_hash": "ee77eec6",
   "count": 114,
   "clients": [
@@ -35,18 +35,7 @@
             "msg": "📅 还有 2 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "name": "Xiany Liu",
-            "relationship": "子女",
-            "source": "nlg-portal"
-          },
-          {
-            "name": "GUOQING LIU",
-            "relationship": "配偶",
-            "source": "nlg-portal"
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -85,18 +74,7 @@
             "msg": "📅 还有 3 天到下次付款日"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "name": "YOO MEI TANG",
-            "relationship": "配偶",
-            "source": "nlg-portal"
-          },
-          {
-            "name": "XIANG LIU",
-            "relationship": "子女",
-            "source": "nlg-portal"
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
@@ -441,13 +419,7 @@
             "msg": "⚠️ 月付逾期 8 天, 请立即联系顾问确认保单"
           }
         ],
-        "beneficiaries_display": [
-          {
-            "name": "Sophia Li",
-            "relationship": "子女",
-            "source": "nlg-portal"
-          }
-        ],
+        "beneficiaries_display": [],
         "agent": {
           "name": "GUO BEIYING",
           "agency": "HENGSHENG GROUP INC 7XA",
