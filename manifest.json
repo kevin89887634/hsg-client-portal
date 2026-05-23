@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-22T06:30:18",
+  "generated_at": "2026-05-23T06:30:48",
   "salt_hash": "ee77eec6",
   "count": 120,
   "clients": [
@@ -10,7 +10,7 @@
       "owner_name": "YANMEI TANG",
       "pdf": "pdfs/091c9ec1f7b2.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YANMEI TANG",
           "age_decade": "40s",
@@ -32,7 +32,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 1 天, 请确认"
+            "msg": "💡 上次付款已过 2 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -49,7 +49,7 @@
       "owner_name": "GUOQING LIU",
       "pdf": "pdfs/e916b281a6f5.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "GUOQING LIU",
           "age_decade": "40s",
@@ -69,9 +69,9 @@
         },
         "alerts": [
           {
-            "type": "upcoming",
-            "severity": "low",
-            "msg": "📅 还有 0 天到下次付款日"
+            "type": "overdue",
+            "severity": "medium",
+            "msg": "💡 上次付款已过 1 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -88,7 +88,7 @@
       "owner_name": "DIHUA TANG",
       "pdf": "pdfs/aaa93461b5fa.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "DIHUA TANG",
           "age_decade": "40s",
@@ -110,7 +110,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 1 天到下次付款日"
+            "msg": "📅 还有 0 天到下次付款日"
           }
         ],
         "beneficiaries_display": [],
@@ -127,7 +127,7 @@
       "owner_name": "XIN CHEN",
       "pdf": "pdfs/8712560dab73.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIN CHEN",
           "age_decade": "50s",
@@ -160,7 +160,7 @@
       "owner_name": "WENXIU DONG",
       "pdf": "pdfs/887ed1d3c806.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WENXIU DONG",
           "age_decade": "30s",
@@ -193,7 +193,7 @@
       "owner_name": "SIWEI BI",
       "pdf": "pdfs/a038c9799f68.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SIWEI BI",
           "age_decade": "30s",
@@ -226,7 +226,7 @@
       "owner_name": "WENLONG ZHAO",
       "pdf": "pdfs/d8fc26aaf8dc.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WENLONG ZHAO",
           "age_decade": "30s",
@@ -265,7 +265,7 @@
       "owner_name": "JIANXUN LI",
       "pdf": "pdfs/05865d70526f.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIANXUN LI",
           "age_decade": "30s",
@@ -298,7 +298,7 @@
       "owner_name": "WEN HE",
       "pdf": "pdfs/3eb74c951fc5.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WEN HE",
           "age_decade": "30s",
@@ -320,7 +320,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 5 天, 请确认"
+            "msg": "💡 上次付款已过 6 天, 请确认"
           }
         ],
         "beneficiaries_display": [
@@ -343,7 +343,7 @@
       "owner_name": "FENG HU",
       "pdf": "pdfs/60dcb9d835f4.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "FENG HU",
           "age_decade": "30s",
@@ -365,7 +365,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 5 天, 请确认"
+            "msg": "💡 上次付款已过 6 天, 请确认"
           }
         ],
         "beneficiaries_display": [
@@ -388,7 +388,7 @@
       "owner_name": "SUOLA ZHU",
       "pdf": "pdfs/76c7835072d0.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SUOLA ZHU",
           "age_decade": "20s",
@@ -410,7 +410,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 3 天到下次付款日"
+            "msg": "📅 还有 2 天到下次付款日"
           }
         ],
         "beneficiaries_display": [],
@@ -427,7 +427,7 @@
       "owner_name": "QING LI",
       "pdf": "pdfs/808b88bd6f1e.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "QING LI",
           "age_decade": "50s",
@@ -449,7 +449,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 11 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 12 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -466,7 +466,7 @@
       "owner_name": "JIHAO YU",
       "pdf": "pdfs/5c2ffd5c6e99.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIHAO YU",
           "age_decade": "30s",
@@ -488,7 +488,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 1 天, 请确认"
+            "msg": "💡 上次付款已过 2 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -505,7 +505,7 @@
       "owner_name": "YI CHUN WONG",
       "pdf": "pdfs/10a743c1c97e.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YI CHUN WONG",
           "age_decade": "30s",
@@ -527,7 +527,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 9 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 10 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [
@@ -550,7 +550,7 @@
       "owner_name": "WAI YI LEE",
       "pdf": "pdfs/6d5c3a39f9c4.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WAI YI LEE",
           "age_decade": "30s",
@@ -572,7 +572,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 1 天, 请确认"
+            "msg": "💡 上次付款已过 2 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -589,7 +589,7 @@
       "owner_name": "WEI LU",
       "pdf": "pdfs/3f906aca3476.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WEI LU",
           "age_decade": "40s",
@@ -611,7 +611,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 1 天, 请确认"
+            "msg": "💡 上次付款已过 2 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -628,7 +628,7 @@
       "owner_name": "ZHENHUA CHEN",
       "pdf": "pdfs/8fe1be70985a.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ZHENHUA CHEN",
           "age_decade": "40s",
@@ -667,7 +667,7 @@
       "owner_name": "QI MIAO",
       "pdf": "pdfs/eb8c1dd07998.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "QI MIAO",
           "age_decade": "50s",
@@ -689,7 +689,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 21 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 22 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [
@@ -712,7 +712,7 @@
       "owner_name": "SHOUKUN XU",
       "pdf": "pdfs/7f9fc8490248.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SHOUKUN XU",
           "age_decade": "40s",
@@ -751,7 +751,7 @@
       "owner_name": "QING MIAO",
       "pdf": "pdfs/aa92c9cc073a.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "QING MIAO",
           "age_decade": "40s",
@@ -773,7 +773,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 11 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 12 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -790,7 +790,7 @@
       "owner_name": "HANYU ZHANG",
       "pdf": "pdfs/4719c7331fb1.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HANYU ZHANG",
           "age_decade": "20s",
@@ -829,7 +829,7 @@
       "owner_name": "XIUMEI ZHU",
       "pdf": "pdfs/d5281956e804.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIUMEI ZHU",
           "age_decade": "40s",
@@ -851,7 +851,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 4 天, 请确认"
+            "msg": "💡 上次付款已过 5 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -868,7 +868,7 @@
       "owner_name": "FAFENG NI",
       "pdf": "pdfs/29c59e22d6e9.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "FAFENG NI",
           "age_decade": "40s",
@@ -890,7 +890,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 13 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -907,7 +907,7 @@
       "owner_name": "SHU-YI LIN",
       "pdf": "pdfs/16cbc812fee7.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SHU-YI LIN",
           "age_decade": "30s",
@@ -946,7 +946,7 @@
       "owner_name": "AMANDA XIA",
       "pdf": "pdfs/8df82a85725d.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "AMANDA XIA",
           "age_decade": "40s",
@@ -968,7 +968,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 12 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 13 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -985,7 +985,7 @@
       "owner_name": "WENBIN CHEN",
       "pdf": "pdfs/0a0dc745cede.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WENBIN CHEN",
           "age_decade": "40s",
@@ -1007,7 +1007,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 13 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -1024,7 +1024,7 @@
       "owner_name": "CHUNG KEN PU",
       "pdf": "pdfs/80cff138adb2.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "CHUNG KEN PU",
           "age_decade": "40s",
@@ -1046,7 +1046,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 13 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [
@@ -1069,7 +1069,7 @@
       "owner_name": "YIRAN MA",
       "pdf": "pdfs/a80b7ee056b0.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YIRAN MA",
           "age_decade": "30s",
@@ -1091,7 +1091,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 11 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 12 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -1108,7 +1108,7 @@
       "owner_name": "WEIJIE HUANG",
       "pdf": "pdfs/7729ec2bba6d.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WEIJIE HUANG",
           "age_decade": "50s",
@@ -1141,7 +1141,7 @@
       "owner_name": "XUELING BAI",
       "pdf": "pdfs/4348e5e5f264.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XUELING BAI",
           "age_decade": "20s",
@@ -1163,7 +1163,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 16 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 17 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [
@@ -1186,7 +1186,7 @@
       "owner_name": "JIALU CHEN",
       "pdf": "pdfs/5449d51b3a25.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIALU CHEN",
           "age_decade": "20s",
@@ -1219,7 +1219,7 @@
       "owner_name": "JUNJIE HUANG",
       "pdf": "pdfs/3207981146ca.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JUNJIE HUANG",
           "age_decade": "20s",
@@ -1241,7 +1241,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 5 天, 请确认"
+            "msg": "💡 上次付款已过 6 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -1258,7 +1258,7 @@
       "owner_name": "CHENGJIN TAO",
       "pdf": "pdfs/3ccb1fc4a683.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "CHENGJIN TAO",
           "age_decade": "40s",
@@ -1280,7 +1280,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 11 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 12 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -1297,7 +1297,7 @@
       "owner_name": "TRAN VUONG TRAN",
       "pdf": "pdfs/078240419f58.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "TRAN VUONG TRAN",
           "age_decade": "30s",
@@ -1330,7 +1330,7 @@
       "owner_name": "LILI YU",
       "pdf": "pdfs/2f7e1b2bf4d4.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "LILI YU",
           "age_decade": "30s",
@@ -1363,7 +1363,7 @@
       "owner_name": "DANDAN LIU",
       "pdf": "pdfs/36ba49bb59b4.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "DANDAN LIU",
           "age_decade": "30s",
@@ -1396,7 +1396,7 @@
       "owner_name": "DI WU",
       "pdf": "pdfs/c695d20b2ecf.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "DI WU",
           "age_decade": "40s",
@@ -1418,7 +1418,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 2 天到下次付款日"
+            "msg": "📅 还有 1 天到下次付款日"
           }
         ],
         "beneficiaries_display": [],
@@ -1435,7 +1435,7 @@
       "owner_name": "YANHUI LI",
       "pdf": "pdfs/67b26d794083.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YANHUI LI",
           "age_decade": "50s",
@@ -1468,7 +1468,7 @@
       "owner_name": "HUIXIAO YANG",
       "pdf": "pdfs/84f91a5ea80d.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HUIXIAO YANG",
           "age_decade": "40s",
@@ -1490,7 +1490,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 1 天到下次付款日"
+            "msg": "📅 还有 0 天到下次付款日"
           }
         ],
         "beneficiaries_display": [
@@ -1513,7 +1513,7 @@
       "owner_name": "JIAOJIAO LI",
       "pdf": "pdfs/dc6a87b9ad10.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIAOJIAO LI",
           "age_decade": "30s",
@@ -1535,7 +1535,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 60 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 61 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [
@@ -1558,7 +1558,7 @@
       "owner_name": "WEIYI ZHAO",
       "pdf": "pdfs/57a1173d27ed.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WEIYI ZHAO",
           "age_decade": "40s",
@@ -1580,7 +1580,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 13 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [
@@ -1603,7 +1603,7 @@
       "owner_name": "XIANGYU LIU",
       "pdf": "pdfs/e905d7141998.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIANGYU LIU",
           "age_decade": "40s",
@@ -1625,7 +1625,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 3 天到下次付款日"
+            "msg": "📅 还有 2 天到下次付款日"
           }
         ],
         "beneficiaries_display": [
@@ -1648,7 +1648,7 @@
       "owner_name": "XIANGYU LIU",
       "pdf": "pdfs/f51e04dad3d7.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIANGYU LIU",
           "age_decade": "40s",
@@ -1670,7 +1670,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 3 天到下次付款日"
+            "msg": "📅 还有 2 天到下次付款日"
           }
         ],
         "beneficiaries_display": [
@@ -1693,7 +1693,7 @@
       "owner_name": "YAOJIE PANG",
       "pdf": "pdfs/242c6dac8403.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YAOJIE PANG",
           "age_decade": "30s",
@@ -1715,7 +1715,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 33 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 34 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -1732,7 +1732,7 @@
       "owner_name": "JIE CUI",
       "pdf": "pdfs/e1566b72afff.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIE CUI",
           "age_decade": "50s",
@@ -1765,7 +1765,7 @@
       "owner_name": "BEINING NIE",
       "pdf": "pdfs/49985f8e08ac.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "BEINING NIE",
           "age_decade": "50s",
@@ -1798,7 +1798,7 @@
       "owner_name": "HONGLING SHEN",
       "pdf": "pdfs/1ddb027f6f48.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HONGLING SHEN",
           "age_decade": "40s",
@@ -1820,7 +1820,7 @@
           {
             "type": "upcoming",
             "severity": "low",
-            "msg": "📅 还有 5 天到下次付款日"
+            "msg": "📅 还有 4 天到下次付款日"
           }
         ],
         "beneficiaries_display": [
@@ -1843,7 +1843,7 @@
       "owner_name": "WENBIN WANG",
       "pdf": "pdfs/d6ce7f56e9d6.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WENBIN WANG",
           "age_decade": "30s",
@@ -1876,7 +1876,7 @@
       "owner_name": "CHUAN XIA LIN",
       "pdf": "pdfs/721039ba38f3.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "CHUAN XIA LIN",
           "age_decade": "60s",
@@ -1898,7 +1898,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 15 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -1915,7 +1915,7 @@
       "owner_name": "HUI PING TAN",
       "pdf": "pdfs/d7b8c4dd1421.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HUI PING TAN",
           "age_decade": "20s",
@@ -1948,7 +1948,7 @@
       "owner_name": "MINGCHEN WU",
       "pdf": "pdfs/ac44500495db.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MINGCHEN WU",
           "age_decade": "20s",
@@ -1981,7 +1981,7 @@
       "owner_name": "QIANG HU",
       "pdf": "pdfs/62c0a12fe267.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "QIANG HU",
           "age_decade": "40s",
@@ -2014,7 +2014,7 @@
       "owner_name": "HUI LIN",
       "pdf": "pdfs/4914419a3e6f.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HUI LIN",
           "age_decade": "30s",
@@ -2036,7 +2036,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 13 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -2053,7 +2053,7 @@
       "owner_name": "SIMING CHENG",
       "pdf": "pdfs/deb0996bdcbf.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SIMING CHENG",
           "age_decade": "30s",
@@ -2075,7 +2075,7 @@
           {
             "type": "overdue",
             "severity": "medium",
-            "msg": "💡 上次付款已过 2 天, 请确认"
+            "msg": "💡 上次付款已过 3 天, 请确认"
           }
         ],
         "beneficiaries_display": [
@@ -2098,7 +2098,7 @@
       "owner_name": "JIAN GUO",
       "pdf": "pdfs/cccfd991e3b8.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIAN GUO",
           "age_decade": "40s",
@@ -2118,9 +2118,9 @@
         },
         "alerts": [
           {
-            "type": "upcoming",
-            "severity": "low",
-            "msg": "📅 还有 0 天到下次付款日"
+            "type": "overdue",
+            "severity": "medium",
+            "msg": "💡 上次付款已过 1 天, 请确认"
           }
         ],
         "beneficiaries_display": [],
@@ -2137,7 +2137,7 @@
       "owner_name": "YIJIE XU",
       "pdf": "pdfs/60b9e47c7d07.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YIJIE XU",
           "age_decade": "30s",
@@ -2159,7 +2159,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 24 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 25 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -2176,7 +2176,7 @@
       "owner_name": "MINGHUI PIAO",
       "pdf": "pdfs/ed590fd66ae5.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MINGHUI PIAO",
           "age_decade": "30s",
@@ -2209,7 +2209,7 @@
       "owner_name": "YINUO YANG WANG",
       "pdf": "pdfs/70bf7aa55bcf.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YINUO YANG WANG",
           "age_decade": "30s",
@@ -2231,7 +2231,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 21 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 22 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -2248,7 +2248,7 @@
       "owner_name": "BODIE YU",
       "pdf": "pdfs/17c1fdf7035f.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "BODIE YU",
           "age_decade": "30s",
@@ -2270,7 +2270,7 @@
           {
             "type": "lapse_warning",
             "severity": "high",
-            "msg": "⚠️ 月付逾期 14 天, 请立即联系顾问确认保单"
+            "msg": "⚠️ 月付逾期 15 天, 请立即联系顾问确认保单"
           }
         ],
         "beneficiaries_display": [],
@@ -2287,7 +2287,7 @@
       "owner_name": "WEI LI",
       "pdf": "pdfs/da97f270093b.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WEI LI",
           "age_decade": "40s",
@@ -2326,7 +2326,7 @@
       "owner_name": "MUXING LIANG",
       "pdf": "pdfs/abffab8950b0.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MUXING LIANG",
           "age_decade": "40s",
@@ -2359,7 +2359,7 @@
       "owner_name": "JUN RU CHEN",
       "pdf": "pdfs/d0bd47e6ac87.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JUN RU CHEN",
           "age_decade": "50s",
@@ -2392,7 +2392,7 @@
       "owner_name": "SHENG HUANG",
       "pdf": "pdfs/5fd326ae5ebc.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SHENG HUANG",
           "age_decade": "10s",
@@ -2431,7 +2431,7 @@
       "owner_name": "WENLONG ZHAO",
       "pdf": "pdfs/f069cb643954.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WENLONG ZHAO",
           "age_decade": "30s",
@@ -2464,7 +2464,7 @@
       "owner_name": "TIANYOU HU",
       "pdf": "pdfs/35672d864a0c.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "TIANYOU HU",
           "age_decade": "0s",
@@ -2503,7 +2503,7 @@
       "owner_name": "TIANYI EASON HU",
       "pdf": "pdfs/c47e5c27410e.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "TIANYI EASON HU",
           "age_decade": "0s",
@@ -2542,7 +2542,7 @@
       "owner_name": "YOUXIN DING",
       "pdf": "pdfs/861ae2d7ae1f.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YOUXIN DING",
           "age_decade": "30s",
@@ -2575,7 +2575,7 @@
       "owner_name": "SHANQI DING",
       "pdf": "pdfs/83746fe5e14d.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SHANQI DING",
           "age_decade": "50s",
@@ -2614,7 +2614,7 @@
       "owner_name": "HUI TANG",
       "pdf": "pdfs/d7a76b246060.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HUI TANG",
           "age_decade": "30s",
@@ -2653,7 +2653,7 @@
       "owner_name": "JAMES POTTER",
       "pdf": "pdfs/5175181b2dab.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JAMES POTTER",
           "age_decade": "50s",
@@ -2686,7 +2686,7 @@
       "owner_name": "MAOXINGZE LI",
       "pdf": "pdfs/1e7b820e1780.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MAOXINGZE LI",
           "age_decade": "10s",
@@ -2719,7 +2719,7 @@
       "owner_name": "XIANGDI YU",
       "pdf": "pdfs/b4b0bc44b418.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIANGDI YU",
           "age_decade": "50s",
@@ -2752,7 +2752,7 @@
       "owner_name": "QING LI",
       "pdf": "pdfs/18917d787e32.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "QING LI",
           "age_decade": "50s",
@@ -2785,7 +2785,7 @@
       "owner_name": "MAOXINYI LI",
       "pdf": "pdfs/e56fe4a8d372.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MAOXINYI LI",
           "age_decade": "30s",
@@ -2818,7 +2818,7 @@
       "owner_name": "ELIE TONG",
       "pdf": "pdfs/5418547d08ea.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ELIE TONG",
           "age_decade": "0s",
@@ -2851,7 +2851,7 @@
       "owner_name": "WENZONG TANG",
       "pdf": "pdfs/abdf2aea081e.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WENZONG TANG",
           "age_decade": "30s",
@@ -2884,7 +2884,7 @@
       "owner_name": "JASPER HE",
       "pdf": "pdfs/65002fc162e3.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JASPER HE",
           "age_decade": "0s",
@@ -2917,7 +2917,7 @@
       "owner_name": "XIYU ZHANG",
       "pdf": "pdfs/5b51fea65c9e.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIYU ZHANG",
           "age_decade": "10s",
@@ -2950,7 +2950,7 @@
       "owner_name": "DANHUI WANG",
       "pdf": "pdfs/94b7a99a8d8b.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "DANHUI WANG",
           "age_decade": "40s",
@@ -2983,7 +2983,7 @@
       "owner_name": "ANZHI PENG",
       "pdf": "pdfs/1a059cf85a46.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ANZHI PENG",
           "age_decade": "10s",
@@ -3016,7 +3016,7 @@
       "owner_name": "ZHIGUO PENG",
       "pdf": "pdfs/4f2f4e51c435.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ZHIGUO PENG",
           "age_decade": "40s",
@@ -3049,7 +3049,7 @@
       "owner_name": "MAGGIE ZHEN",
       "pdf": "pdfs/49d2f1aea970.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MAGGIE ZHEN",
           "age_decade": "20s",
@@ -3082,7 +3082,7 @@
       "owner_name": "KERRY ZHEN",
       "pdf": "pdfs/ac2d53222222.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "KERRY ZHEN",
           "age_decade": "20s",
@@ -3115,7 +3115,7 @@
       "owner_name": "MICHELLE ZHEN",
       "pdf": "pdfs/3fbe97af40ef.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "MICHELLE ZHEN",
           "age_decade": "10s",
@@ -3148,7 +3148,7 @@
       "owner_name": "CAN ZHENG",
       "pdf": "pdfs/3cb2a86bfc33.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "CAN ZHENG",
           "age_decade": "30s",
@@ -3181,7 +3181,7 @@
       "owner_name": "JASPER SIBO JIA",
       "pdf": "pdfs/02ef83315de7.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JASPER SIBO JIA",
           "age_decade": "0s",
@@ -3214,7 +3214,7 @@
       "owner_name": "GUANZHOU ZHENG",
       "pdf": "pdfs/4da630814588.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "GUANZHOU ZHENG",
           "age_decade": "20s",
@@ -3247,7 +3247,7 @@
       "owner_name": "GUANZHOU ZHENG",
       "pdf": "pdfs/fa72272f2553.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "GUANZHOU ZHENG",
           "age_decade": "20s",
@@ -3280,7 +3280,7 @@
       "owner_name": "WANGQIAO XU",
       "pdf": "pdfs/0c9aa994a272.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "WANGQIAO XU",
           "age_decade": "10s",
@@ -3313,7 +3313,7 @@
       "owner_name": "AMANDA XIA",
       "pdf": "pdfs/e95df62853b3.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "AMANDA XIA",
           "age_decade": "40s",
@@ -3346,7 +3346,7 @@
       "owner_name": "YONG ZHI LIN",
       "pdf": "pdfs/a2b7df862e42.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YONG ZHI LIN",
           "age_decade": "30s",
@@ -3379,7 +3379,7 @@
       "owner_name": "RICHIE ZHANG",
       "pdf": "pdfs/a22c08e5cce8.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "RICHIE ZHANG",
           "age_decade": "0s",
@@ -3418,7 +3418,7 @@
       "owner_name": "ANZHENG TANG",
       "pdf": "pdfs/454031a1a67c.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ANZHENG TANG",
           "age_decade": "20s",
@@ -3457,7 +3457,7 @@
       "owner_name": "JIABEI XIA",
       "pdf": "pdfs/ca01551edcb7.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIABEI XIA",
           "age_decade": "20s",
@@ -3490,7 +3490,7 @@
       "owner_name": "YIMING ZHANG",
       "pdf": "pdfs/6d6e92c14649.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YIMING ZHANG",
           "age_decade": "10s",
@@ -3529,7 +3529,7 @@
       "owner_name": "JIANHUA DUFFY",
       "pdf": "pdfs/2c5e3b83b0e2.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIANHUA DUFFY",
           "age_decade": "60s",
@@ -3562,7 +3562,7 @@
       "owner_name": "IVAN MA",
       "pdf": "pdfs/ca744a4ea0ea.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "IVAN MA",
           "age_decade": "20s",
@@ -3595,7 +3595,7 @@
       "owner_name": "EDWIN MA",
       "pdf": "pdfs/033bd1862b88.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "EDWIN MA",
           "age_decade": "20s",
@@ -3628,7 +3628,7 @@
       "owner_name": "QIRUI WANG",
       "pdf": "pdfs/62830c9a92c4.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "QIRUI WANG",
           "age_decade": "20s",
@@ -3667,7 +3667,7 @@
       "owner_name": "LIXIU LIU",
       "pdf": "pdfs/c07ec389c82c.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "LIXIU LIU",
           "age_decade": "30s",
@@ -3706,7 +3706,7 @@
       "owner_name": "LIANGAI LI",
       "pdf": "pdfs/e396ccd990ab.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "LIANGAI LI",
           "age_decade": "50s",
@@ -3739,7 +3739,7 @@
       "owner_name": "KOBE S PHAKHAM",
       "pdf": "pdfs/8c18e016ffce.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "KOBE S PHAKHAM",
           "age_decade": "20s",
@@ -3778,7 +3778,7 @@
       "owner_name": "SEAN PHAKHAM",
       "pdf": "pdfs/0c585fa8128b.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SEAN PHAKHAM",
           "age_decade": "30s",
@@ -3811,7 +3811,7 @@
       "owner_name": "YULIN WANG",
       "pdf": "pdfs/de9190665e9d.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YULIN WANG",
           "age_decade": "30s",
@@ -3844,7 +3844,7 @@
       "owner_name": "JOANNA XU",
       "pdf": "pdfs/251207e4f1ad.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JOANNA XU",
           "age_decade": "10s",
@@ -3883,7 +3883,7 @@
       "owner_name": "TYAN JOSHUA BAI",
       "pdf": "pdfs/13d17bd478a0.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "TYAN JOSHUA BAI",
           "age_decade": "0s",
@@ -3922,7 +3922,7 @@
       "owner_name": "LI LIU",
       "pdf": "pdfs/02782e57c2da.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "LI LIU",
           "age_decade": "50s",
@@ -3955,7 +3955,7 @@
       "owner_name": "SHAOXIANG HOU",
       "pdf": "pdfs/c2f979c11417.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "SHAOXIANG HOU",
           "age_decade": "10s",
@@ -3988,7 +3988,7 @@
       "owner_name": "YIXIAN ZANG",
       "pdf": "pdfs/42ad0f973952.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "YIXIAN ZANG",
           "age_decade": "30s",
@@ -4021,7 +4021,7 @@
       "owner_name": "ERIC ZANG",
       "pdf": "pdfs/d016fafb5376.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ERIC ZANG",
           "age_decade": "0s",
@@ -4054,7 +4054,7 @@
       "owner_name": "ANGELA ZANG",
       "pdf": "pdfs/cd32fa624470.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ANGELA ZANG",
           "age_decade": "0s",
@@ -4087,7 +4087,7 @@
       "owner_name": "ZIMU LIU",
       "pdf": "pdfs/78075cbf5067.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ZIMU LIU",
           "age_decade": "20s",
@@ -4120,7 +4120,7 @@
       "owner_name": "HONGSHAN LI",
       "pdf": "pdfs/4f507cfbc0b1.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "HONGSHAN LI",
           "age_decade": "40s",
@@ -4153,7 +4153,7 @@
       "owner_name": "DONGHONG FAN",
       "pdf": "pdfs/810ceb18f749.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "DONGHONG FAN",
           "age_decade": "40s",
@@ -4186,7 +4186,7 @@
       "owner_name": "RYAN PIAO",
       "pdf": "pdfs/6cd9f3e2e1d1.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "RYAN PIAO",
           "age_decade": "0s",
@@ -4219,7 +4219,7 @@
       "owner_name": "ISABELLA YANG",
       "pdf": "pdfs/df21d06615e3.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ISABELLA YANG",
           "age_decade": "10s",
@@ -4252,7 +4252,7 @@
       "owner_name": "ANGELINA YANG",
       "pdf": "pdfs/6e9d6b1707d7.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "ANGELINA YANG",
           "age_decade": "0s",
@@ -4285,7 +4285,7 @@
       "owner_name": "JIMIN ZHAI",
       "pdf": "pdfs/fb65498bf873.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "JIMIN ZHAI",
           "age_decade": "40s",
@@ -4318,7 +4318,7 @@
       "owner_name": "XIAN LI",
       "pdf": "pdfs/c652b3b14fe8.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "XIAN LI",
           "age_decade": "30s",
@@ -4351,7 +4351,7 @@
       "owner_name": "GANG LI",
       "pdf": "pdfs/2ce4a475a156.pdf",
       "snapshot": {
-        "as_of": "2026-05-22",
+        "as_of": "2026-05-23",
         "insured": {
           "name": "GANG LI",
           "age_decade": "40s",
